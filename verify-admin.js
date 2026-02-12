@@ -13,3 +13,5 @@ const seedAdmin = async () => {
 };
 
 seedAdmin();
+
+// i am doing thr editing thing

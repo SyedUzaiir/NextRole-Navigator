@@ -46,14 +46,17 @@ export default function ChatBot() {
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
                     query: userText,
-                    history: messages.filter(m => m.sender !== 'bot' || !m.isError).map(m => ({
+                    history: messages.filter(m => (m.sender !== 'bot' || !m.isError) && m.id !== 1).map(m => ({
                         role: m.sender === 'user' ? 'user' : 'model',
                         parts: [{ text: m.text }]
                     }))
                 })
             });
 
-            if (!response.ok) throw new Error('Network response was not ok');
+            if (!response.ok) {
+                const errorData = await response.json().catch(() => ({}));
+                throw new Error(errorData.error || 'Network response was not ok');
+            }
 
             const data = await response.json();
             const botText = data.response;
@@ -74,7 +77,7 @@ export default function ChatBot() {
             console.error("Chat error:", error);
             const errorMessage = {
                 id: Date.now() + 1,
-                text: "I'm having trouble connecting to the knowledge base right now. Please try again later.",
+                text: error.message || "I'm having trouble connecting to the knowledge base right now. Please try again later.",
                 sender: 'bot',
                 isError: true
             };

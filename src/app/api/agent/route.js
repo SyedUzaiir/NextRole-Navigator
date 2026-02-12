@@ -28,7 +28,7 @@ export async function POST(req) {
         const genAI = new GoogleGenerativeAI(apiKey.trim());
 
         const model = genAI.getGenerativeModel({
-            model: "gemini-1.5-pro",
+            model: "gemini-1.5-flash",
             systemInstruction: systemInstruction
         });
 
@@ -48,7 +48,7 @@ export async function POST(req) {
     } catch (error) {
         console.error("Agent API Error:", error);
         return NextResponse.json(
-            { error: "Failed to process your request." },
+            { error: error.message || "Failed to process your request." },
             { status: 500 }
         );
     }
