@@ -3,7 +3,7 @@ import "./globals.css";
 import { Toaster } from 'react-hot-toast';
 import Navbar from "@/components/Navbar";
 import OnboardingGuard from "@/components/OnboardingGuard";
-import ChatWindow from "@/components/chat/ChatWindow";
+import ChatBot from "@/components/ChatBot";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
           </OnboardingGuard>
           <Toaster position="top-center" />
         </main>
-        <ChatWindow />
+        <ChatBot />
       </body>
     </html>
   );

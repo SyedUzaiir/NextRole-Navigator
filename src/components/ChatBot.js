@@ -41,10 +41,16 @@ export default function ChatBot() {
         setIsTyping(true);
 
         try {
-            const response = await fetch('http://localhost:8000/api/chat', {
+            const response = await fetch('/api/agent', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ query: userText })
+                body: JSON.stringify({
+                    query: userText,
+                    history: messages.filter(m => m.sender !== 'bot' || !m.isError).map(m => ({
+                        role: m.sender === 'user' ? 'user' : 'model',
+                        parts: [{ text: m.text }]
+                    }))
+                })
             });
 
             if (!response.ok) throw new Error('Network response was not ok');
