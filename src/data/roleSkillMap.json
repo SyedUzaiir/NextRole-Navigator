@@ -1,0 +1,3815 @@
+{
+    "IT Project Manager": [
+        "PMP",
+        "Scrum",
+        "Agile",
+        "Budget Management",
+        "Stakeholder Communication"
+    ],
+    "Scrum Master": [
+        "Scrum Guide",
+        "Facilitation",
+        "JIRA",
+        "Conflict Resolution",
+        "Servant Leadership"
+    ],
+    "Product Manager": [
+        "Roadmapping",
+        "Market Analysis",
+        "User Stories",
+        "A/B Testing",
+        "Figma (Basic)"
+    ],
+    "UX Researcher": [
+        "Qualitative Research",
+        "Interviews",
+        "Survey Design",
+        "Persona Development",
+        "Usability Testing"
+    ],
+    "Cloud Security Engineer": [
+        "IAM",
+        "Security Audits",
+        "Firewall Configuration",
+        "Cloud Compliance (e.g., ISO 27001)",
+        "Penetration Testing (Basic)"
+    ],
+    "AI/ML Ops Engineer": [
+        "Kubeflow",
+        "MLflow",
+        "Docker",
+        "CI/CD for ML",
+        "Model Monitoring"
+    ],
+    "Big Data Engineer": [
+        "Hadoop",
+        "Spark",
+        "Scala",
+        "Kafka",
+        "Data Lake Architecture"
+    ],
+    "Quantitative Analyst ('Quant')": [
+        "Python",
+        "C++",
+        "Financial Modeling",
+        "Time Series Analysis",
+        "Statistics"
+    ],
+    "Game Developer (Unreal Engine)": [
+        "C++",
+        "Unreal Engine (Blueprints)",
+        "Level Design",
+        "Graphics Programming",
+        "Perforce"
+    ],
+    "Computer Vision Engineer": [
+        "OpenCV",
+        "Python",
+        "Deep Learning",
+        "Image Processing",
+        "Camera Calibration"
+    ],
+    "Natural Language Processing (NLP) Specialist": [
+        "Python",
+        "Transformers",
+        "spaCy",
+        "Text Preprocessing",
+        "Language Models"
+    ],
+    "AR/VR Developer": [
+        "Unity/Unreal",
+        "C#",
+        "C++",
+        "Spatial Computing",
+        "3D Modeling (Basic)"
+    ],
+    "Telecommunications Engineer": [
+        "VoIP",
+        "SIP",
+        "Network Protocols",
+        "Fiber Optics",
+        "RF Engineering"
+    ],
+    "GIS Developer": [
+        "ArcGIS/QGIS",
+        "Python (ArcPy)",
+        "Geospatial Data",
+        "SQL",
+        "Mapping"
+    ],
+    "Mainframe Developer": [
+        "COBOL",
+        "JCL",
+        "VSAM",
+        "DB2",
+        "CICS"
+    ],
+    "VBA Developer": [
+        "Visual Basic for Applications",
+        "Excel",
+        "Access",
+        "Macros",
+        "Data Manipulation"
+    ],
+    "SharePoint Developer": [
+        "C#",
+        "JavaScript",
+        "SharePoint Framework (SPFx)",
+        "PowerShell",
+        "Workflow Automation"
+    ],
+    "Desktop Support Technician": [
+        "Troubleshooting",
+        "Windows/macOS",
+        "Active Directory",
+        "Networking (Basic)",
+        "Hardware Repair"
+    ],
+    "Ethical Hacker/Penetration Tester": [
+        "Kali Linux",
+        "Metasploit",
+        "Burp Suite",
+        "OWASP Top 10",
+        "Report Writing"
+    ],
+    "System Analyst": [
+        "Requirements Gathering",
+        "UML Diagrams",
+        "Process Mapping",
+        "SQL",
+        "Stakeholder Management"
+    ],
+    "Technical Account Manager (TAM)": [
+        "Customer Relations",
+        "Technical Consulting",
+        "SLA Management",
+        "Salesforce",
+        "Product Expertise"
+    ],
+    "Data Visualization Specialist": [
+        "Tableau",
+        "D3.js",
+        "R/Python",
+        "Storytelling with Data",
+        "UI/UX Principles"
+    ],
+    "Performance Engineer": [
+        "JMeter",
+        "LoadRunner",
+        "Monitoring Tools (e.g., Dynatrace)",
+        "Profiling",
+        "Optimization Techniques"
+    ],
+    "Firmware Engineer": [
+        "C/C++",
+        "Embedded Linux",
+        "Device Drivers",
+        "Hardware Schematics",
+        "Debugging Tools"
+    ],
+    "Sitecore Developer": [
+        "C#",
+        ".NET",
+        "Helix Architecture",
+        "Sitecore XP/XM",
+        "Front-end (Basic)"
+    ],
+    "Magento Developer": [
+        "PHP",
+        "Magento 2 (Adobe Commerce)",
+        "MySQL",
+        "E-commerce APIs",
+        "Front-end (Basic)"
+    ],
+    "Digital Forensics Analyst": [
+        "EnCase/FTK",
+        "Chain of Custody",
+        "Malware Analysis",
+        "OS Forensics",
+        "Report Generation"
+    ],
+    "E-commerce Developer": [
+        "Shopify/WooCommerce",
+        "HTML/CSS/JS",
+        "Payment Gateways",
+        "Inventory Management",
+        "SEO (Basic)"
+    ],
+    "Biomedical Engineer (Software focus)": [
+        "MATLAB",
+        "Python",
+        "Signal Processing",
+        "Medical Imaging (e.g., DICOM)",
+        "Regulatory Compliance"
+    ],
+    "HPC Engineer (High-Performance Computing)": [
+        "MPI",
+        "OpenMP",
+        "C/Fortran",
+        "Cluster Management",
+        "Parallel Algorithms"
+    ],
+    "Network Security Engineer": [
+        "Firewall Administration",
+        "IDS/IPS",
+        "VPNs",
+        "Cisco/Palo Alto",
+        "Network Monitoring"
+    ],
+    "Sales Engineer (Pre-Sales)": [
+        "Product Demos",
+        "Technical Presentations",
+        "RFP Response",
+        "Solution Architecture",
+        "Salesforce"
+    ],
+    "Geothermal Systems Engineer": [
+        "Thermodynamics",
+        "CAD Software",
+        "Drilling Techniques",
+        "Fluid Dynamics",
+        "Renewable Energy"
+    ],
+    "Industrial Control Systems (ICS) Engineer": [
+        "PLC Programming",
+        "SCADA Systems",
+        "Modbus/OPC",
+        "Process Control",
+        "Cybersecurity (OT)"
+    ],
+    "Compliance Analyst (Tech focus)": [
+        "GDPR/HIPAA",
+        "Risk Assessment",
+        "Audit Preparation",
+        "Policy Writing",
+        "Control Frameworks"
+    ],
+    "Search Engine Optimization (SEO) Specialist": [
+        "Google Analytics",
+        "Keyword Research",
+        "Content Strategy",
+        "Technical SEO",
+        "Ahrefs/SEMRush"
+    ],
+    "Low-Code/No-Code Developer": [
+        "Mendix/OutSystems/Power Platform",
+        "Business Process Mapping",
+        "Data Modeling (Basic)",
+        "Integrations (APIs)"
+    ],
+    "ServiceNow Developer": [
+        "JavaScript",
+        "ServiceNow Platform",
+        "ITIL",
+        "Workflows",
+        "CMDB"
+    ],
+    "Quantum Computing Engineer": [
+        "Qiskit/Cirq",
+        "Linear Algebra",
+        "Quantum Algorithms",
+        "Python",
+        "Physics (Basic)"
+    ],
+    "Computer Graphics Programmer": [
+        "OpenGL/Vulkan/DirectX",
+        "C++",
+        "Shader Languages (GLSL/HLSL)",
+        "Linear Algebra",
+        "Game Engines (Basic)"
+    ],
+    "Transmission Line Engineer": [
+        "EHVAC/HVDC Design",
+        "PLS-CADD",
+        "Sag & Tension Analysis",
+        "Tower Footing Design",
+        "Surveying"
+    ],
+    "Substation O&M Engineer": [
+        "EHV Switchgear",
+        "Transformer Maintenance",
+        "Protection Relays (Numerical)",
+        "SCADA (Field)",
+        "O&M Procedures"
+    ],
+    "Grid System Operator (Control Center)": [
+        "Load Despatch",
+        "Contingency Analysis",
+        "IEGC",
+        "Power Flow Modeling",
+        "Real-Time Operation"
+    ],
+    "Protection & Control Engineer": [
+        "Relay Coordination",
+        "Substation Automation (IEC 61850)",
+        "Fault Analysis",
+        "Digital Relays",
+        "Testing & Commissioning"
+    ],
+    "Power System Telecom Engineer": [
+        "OFC (Optical Fiber Communication)",
+        "PLCC (Power Line Carrier Communication)",
+        "SDH/DWDM",
+        "Microwave Communication",
+        "Network Surveillance"
+    ],
+    "High Voltage Test Engineer": [
+        "Insulation Testing",
+        "GIS Testing",
+        "Corona Discharge Measurement",
+        "Diagnostic Testing (DGA)",
+        "Impulse Testing"
+    ],
+    "Asset Management Specialist (Power)": [
+        "Condition Monitoring (CBM)",
+        "SAP PM Module",
+        "Predictive Maintenance (PdM)",
+        "Reliability-Centered Maintenance (RCM)"
+    ],
+    "Smart Grid Architect": [
+        "WAMS (PMUs)",
+        "Distribution Automation (DA)",
+        "AMI/Smart Metering",
+        "Cybersecurity (Grid)",
+        "Grid Modeling"
+    ],
+    "Energy Management System (EMS) Analyst": [
+        "State Estimator",
+        "Optimal Power Flow (OPF)",
+        "DTS (Dispatcher Training Simulator)",
+        "ICCP",
+        "Real-Time Databases"
+    ],
+    "Renewable Energy Integration Engineer": [
+        "RE Forecasting (Wind/Solar)",
+        "Intermittency Management",
+        "Grid Stability Studies",
+        "Inverter Technology",
+        "BESS Integration"
+    ],
+    "Power System Planning Engineer": [
+        "Load Forecasting",
+        "Transmission Expansion Planning",
+        "Power System Simulation (PSSE/PSCAD)",
+        "T&D Loss Reduction",
+        "Feasibility Studies"
+    ],
+    "Project Commissioning Engineer (Electrical)": [
+        "Site Acceptance Testing (SAT)",
+        "Pre-Commissioning Checks",
+        "Punch List Management",
+        "QA/QC Procedures",
+        "Project Closure"
+    ],
+    "HSE Officer (Power Sector)": [
+        "Electrical Safety Procedures",
+        "OSHA/ISO 45001 Compliance",
+        "Work Permit System (PTW)",
+        "Fire Safety",
+        "Emergency Response Planning"
+    ],
+    "Regulatory Compliance Specialist (Power)": [
+        "CERC/SERC Regulations",
+        "Tariff Filing",
+        "Transmission Service Agreement (TSA)",
+        "Audit Management",
+        "Policy Interpretation"
+    ],
+    "Civil Engineer (Power)": [
+        "Tower Foundation Design",
+        "Substation Building Construction",
+        "Soil Testing",
+        "Structural Analysis (STAAD Pro)",
+        "Construction Management"
+    ],
+    "Materials & Contracts Specialist": [
+        "SAP MM Module",
+        "Vendor Management",
+        "Procurement Law (GeM)",
+        "Contract Negotiation",
+        "Inventory Control"
+    ],
+    "GIS Analyst (Utility Mapping)": [
+        "ArcFM/Smallworld",
+        "Geodatabase Management",
+        "Utility Network Modeling",
+        "Field Data Collection (Mobile GIS)",
+        "Spatial Analysis"
+    ],
+    "Aerospace Software Engineer": [
+        "C/C++",
+        "DO-178C",
+        "Real-Time OS (RTOS)",
+        "MATLAB/Simulink",
+        "MIL-STD"
+    ],
+    "Chemical Process Control Engineer": [
+        "DCS/PLC Programming (DeltaV)",
+        "P&ID Interpretation",
+        "Process Optimization (APC)",
+        "Safety Instrumented Systems (SIS)",
+        "OSIsoft PI"
+    ],
+    "BIM/VDC Manager": [
+        "Revit",
+        "Navisworks",
+        "Clash Detection",
+        "4D/5D Modeling",
+        "Construction Phasing"
+    ],
+    "Geotechnical Data Analyst": [
+        "ArcGIS Pro",
+        "Rock Mechanics",
+        "Geostatistical Modeling",
+        "Borehole Log Interpretation",
+        "Python"
+    ],
+    "Automotive Embedded Engineer": [
+        "CAN Protocol",
+        "AUTOSAR",
+        "Microcontroller Programming (e.g., Renesas)",
+        "MISRA C",
+        "Functional Safety (ISO 26262)"
+    ],
+    "Manufacturing Execution System (MES) Specialist": [
+        "MES Platform (e.g., SAP ME)",
+        "SQL Server",
+        "Plant-Floor Integration (OPC)",
+        "Batch/Discrete Manufacturing",
+        "ISA-95"
+    ],
+    "Computational Fluid Dynamics (CFD) Engineer": [
+        "ANSYS Fluent/CFX",
+        "Meshing (e.g., ICEM CFD)",
+        "Turbulence Modeling",
+        "High-Performance Computing (HPC)",
+        "Pre/Post-Processing"
+    ],
+    "Finite Element Analysis (FEA) Specialist": [
+        "Abaqus/NASTRAN",
+        "Non-linear Analysis",
+        "Material Modeling",
+        "Fatigue & Fracture Analysis",
+        "CAD Integration"
+    ],
+    "Acoustics Engineer (Software Focus)": [
+        "MATLAB",
+        "Sound Quality Metrics",
+        "Noise Mapping Software",
+        "Digital Signal Processing (DSP)",
+        "Psychoacoustics"
+    ],
+    "VLSI Design Engineer (Verification)": [
+        "Verilog/SystemVerilog",
+        "UVM",
+        "Functional Coverage",
+        "Assertion-Based Verification (ABV)",
+        "EDA Tools (Cadence/Synopsys)"
+    ],
+    "React Native Developer": [
+        "TypeScript",
+        "Redux",
+        "Metro Bundler",
+        "iOS/Android Deployment",
+        "Expo"
+    ],
+    "Go (Golang) Microservices Developer": [
+        "gRPC",
+        "Prometheus/Grafana",
+        "Kubernetes",
+        "Concurrency Patterns",
+        "Service Mesh (Istio)"
+    ],
+    "Ruby on Rails Developer": [
+        "RSpec",
+        "PostgreSQL",
+        "Heroku Deployment",
+        "RESTful APIs",
+        "MVC Architecture"
+    ],
+    "Azure Kubernetes Service (AKS) Specialist": [
+        "Azure ARM/Bicep",
+        "Helm Charts",
+        "Traffic Manager",
+        "Azure Monitor",
+        "Azure Policy"
+    ],
+    "AWS Lambda Serverless Developer": [
+        "SAM/Serverless Framework",
+        "API Gateway",
+        "DynamoDB",
+        "CloudWatch Logs",
+        "Step Functions"
+    ],
+    "Salesforce CPQ Developer": [
+        "SteelBrick CPQ",
+        "Apex",
+        "Visualforce",
+        "Pricing Rules",
+        "Product Configurators"
+    ],
+    "PHP (Laravel) Backend Developer": [
+        "Eloquent ORM",
+        "PHPUnit",
+        "Composer",
+        "Redis Caching",
+        "Security Best Practices"
+    ],
+    "Rust Systems Programmer": [
+        "Low-level Networking",
+        "WebAssembly (WASM)",
+        "Memory Safety",
+        "Embedded Rust",
+        "Operating System Kernels"
+    ],
+    "Oracle Fusion Cloud Consultant (Financials)": [
+        "Cloud ERP Modules",
+        "SOAP/REST Integrations",
+        "SQL",
+        "Financial Reporting Studio",
+        "Budgeting/Forecasting"
+    ],
+    "MuleSoft Integration Developer": [
+        "Anypoint Platform",
+        "DataWeave",
+        "RAML",
+        "Policy Management",
+        "API Governance"
+    ],
+    "Scala/Akka Distributed Systems Engineer": [
+        "Functional Programming",
+        "Actor Model",
+        "High-Throughput Messaging",
+        "Spark (Advanced)",
+        "Fault Tolerance"
+    ],
+    "Data Governance Analyst": [
+        "Collibra/Informatica",
+        "Data Quality Rules",
+        "Metadata Management",
+        "Regulatory Frameworks (e.g., CCPA)",
+        "Data Stewardship"
+    ],
+    "Time Series Modeling Specialist": [
+        "ARIMA/Prophet",
+        "Feature Engineering (Lagging)",
+        "Anomaly Detection",
+        "TensorFlow (TimeSeries)",
+        "Kalman Filters"
+    ],
+    "Graph Database Engineer": [
+        "Neo4j (Cypher)",
+        "Gremlin",
+        "Graph Modeling",
+        "Relationship Mapping",
+        "Topology Analysis"
+    ],
+    "Search Relevance Engineer": [
+        "Elasticsearch/Solr",
+        "Lucene Query Language",
+        "Ranking Algorithms (BM25)",
+        "Data Preprocessing",
+        "Query Tuning"
+    ],
+    "Master Data Management (MDM) Architect": [
+        "Informatica MDM/Reltio",
+        "Data Standardization",
+        "Golden Record Management",
+        "Data Stewardship",
+        "Match & Merge Rules"
+    ],
+    "A/B Testing & Experimentation Scientist": [
+        "Statistical Significance",
+        "Bayesian Methods",
+        "VWO/Optimizely",
+        "Lift Analysis",
+        "Causal Inference"
+    ],
+    "Deep Reinforcement Learning Engineer": [
+        "OpenAI Gym",
+        "PyTorch/TensorFlow",
+        "Policy Gradient Methods (PPO)",
+        "Robotics Simulation",
+        "Model-Based RL"
+    ],
+    "Speech Recognition/Acoustic Modeler": [
+        "Kaldi/DeepSpeech",
+        "Hidden Markov Models (HMM)",
+        "Feature Extraction (MFCC)",
+        "Audio Processing",
+        "Phonetics"
+    ],
+    "Marketing Attribution Modeler": [
+        "Python (Pandas/Scikit-learn)",
+        "Multi-Touch Attribution (MTA)",
+        "SQL",
+        "Media Mix Modeling (MMM)",
+        "Lifetime Value (LTV)"
+    ],
+    "Customer Lifetime Value (CLV) Analyst": [
+        "Cohort Analysis",
+        "Survival Analysis",
+        "Predictive Modeling",
+        "SQL",
+        "Recency, Frequency, Monetary (RFM)"
+    ],
+    "Threat Hunter": [
+        "Splunk/ELK Stack",
+        "MITRE ATT&CK Framework",
+        "Memory Forensics",
+        "Network Traffic Analysis (PCAP)",
+        "YARA Rules"
+    ],
+    "Identity & Access Management (IAM) Engineer": [
+        "Okta/Azure AD",
+        "SAML/OAuth",
+        "Privileged Access Management (PAM)",
+        "Multi-Factor Authentication (MFA)",
+        "LDAP"
+    ],
+    "Application Security (AppSec) Engineer": [
+        "SAST/DAST Tools (e.g., Checkmarx)",
+        "Secure SDLC",
+        "OWASP Top 10",
+        "Container Scanning",
+        "Security Champions Program"
+    ],
+    "Security Information and Event Management (SIEM) Analyst": [
+        "Log Correlation",
+        "Rule Tuning",
+        "Incident Response Playbooks",
+        "SOAR Integration",
+        "Security Monitoring"
+    ],
+    "Disaster Recovery (DR) Specialist": [
+        "RTO/RPO Planning",
+        "Backup/Replication Technologies (Veeam)",
+        "DR Drills",
+        "Business Continuity Planning (BCP)",
+        "Failover Testing"
+    ],
+    "VoIP/Unified Communications Engineer": [
+        "Cisco Call Manager/Teams",
+        "SIP Trunking",
+        "QoS (Quality of Service)",
+        "Network Troubleshooting (Wireshark)",
+        "Gateways/SBCs"
+    ],
+    "Storage Area Network (SAN) Administrator": [
+        "Fibre Channel",
+        "iSCSI",
+        "Storage Arrays (e.g., Dell EMC)",
+        "LUN Provisioning",
+        "Data Deduplication"
+    ],
+    "Email Security & Gateway Administrator": [
+        "Anti-Phishing Tools (e.g., Proofpoint)",
+        "DMARC/SPF/DKIM",
+        "Exchange Server/Office 365 Admin",
+        "Email Archiving"
+    ],
+    "Configuration Management Specialist": [
+        "Chef/Puppet/SaltStack",
+        "Desired State Configuration (DSC)",
+        "YAML/JSON",
+        "Infrastructure as Code (IaC)",
+        "Idempotence"
+    ],
+    "End User Computing (EUC) Engineer": [
+        "Desktop Virtualization (VDI-VMware/Citrix)",
+        "Group Policy Objects (GPO)",
+        "SCCM/Intune",
+        "Endpoint Security",
+        "Image Management"
+    ],
+    "Technical Program Manager (TPM)": [
+        "Cross-functional Coordination",
+        "Risk Management (Technical Debt)",
+        "Gantt Charts",
+        "Confluence/JIRA (Admin)",
+        "Executive Reporting"
+    ],
+    "Change Management Specialist (IT)": [
+        "ADKAR Model",
+        "Training Materials Development",
+        "Stakeholder Impact Analysis",
+        "Communications Planning",
+        "Resistance Management"
+    ],
+    "Vendor Management Specialist (Software)": [
+        "SLA Negotiation",
+        "Contract Lifecycle Management (CLM)",
+        "Performance Benchmarking",
+        "IT Procurement",
+        "Supplier Relationship Management"
+    ],
+    "Process Improvement Specialist (Six Sigma)": [
+        "DMAIC Methodology",
+        "Minitab",
+        "Process Mapping (BPMN)",
+        "Root Cause Analysis (RCA)",
+        "Lean Principles"
+    ],
+    "Release Train Engineer (RTE-SAFe)": [
+        "ART Synchronization",
+        "PI Planning Facilitation",
+        "Lean-Agile Principles",
+        "Metrics Reporting (SAFe)",
+        "Value Stream Mapping"
+    ],
+    "Training & Enablement Manager (Tech)": [
+        "Instructional Design (ADDIE)",
+        "Learning Management Systems (LMS)",
+        "Curriculum Development",
+        "Video Production (Basic)",
+        "Adult Learning Theory"
+    ],
+    "Support Team Lead (L3)": [
+        "Advanced Troubleshooting",
+        "Escalation Management",
+        "ITIL Framework",
+        "Knowledge Base Management",
+        "Team Coaching"
+    ],
+    "Financial Systems Analyst (FinTech)": [
+        "GL/AP/AR Processes",
+        "Reconciliation",
+        "ERP Integration (e.g., Oracle/SAP)",
+        "Hyperion/EPM",
+        "Regulatory Reporting (IFRS)"
+    ],
+    "Hardware Procurement Specialist": [
+        "Component Sourcing",
+        "Supply Chain Risk Assessment",
+        "Bill of Materials (BOM) Analysis",
+        "Negotiation Skills",
+        "Logistics"
+    ],
+    "Salesforce Administrator": [
+        "User Management",
+        "Custom Objects",
+        "Workflow Rules/Process Builder (Flow)",
+        "Reports & Dashboards",
+        "Data Loader"
+    ],
+    "Cloud Economist (FinOps)": [
+        "AWS/Azure/GCP Cost Management",
+        "Cost Allocation Tagging",
+        "Reserved Instances (RIs)",
+        "Savings Plans",
+        "Budget Forecasting"
+    ],
+    "Blockchain Auditor/Security": [
+        "Smart Contract Auditing (Solidity)",
+        "Mythril/Slither",
+        "Token Standards (ERC-20)",
+        "Cryptography",
+        "Penetration Testing (Blockchain)"
+    ],
+    "AI Prompt Engineer": [
+        "Generative AI Models (GPT/LLaMA)",
+        "Prompt Engineering Techniques",
+        "LangChain/Vector Databases",
+        "Model Fine-Tuning",
+        "Bias Mitigation"
+    ],
+    "Digital Twin Modeler": [
+        "Unity/Unreal Engine",
+        "IoT Integration (MQTT)",
+        "Simulation Software (Anylogic)",
+        "3D CAD Modeling (Revit/SolidWorks)",
+        "Real-Time Data Streams"
+    ],
+    "Wearable Tech Developer": [
+        "WatchOS/Wear OS SDK",
+        "Bluetooth LE (BLE)",
+        "Sensor Data Processing",
+        "Low Power Consumption Coding",
+        "Mobile Integration"
+    ],
+    "System Modeling Engineer (MBSE)": [
+        "SysML/UML",
+        "Model-Based Systems Engineering (MBSE)",
+        "Requirements Traceability",
+        "Simulation (Modelica/Simulink)",
+        "Tools (e.g., Cameo)"
+    ],
+    "Full Stack Developer (Java/Spring)": [
+        "Java",
+        "Spring Boot",
+        "Hibernate/JPA",
+        "RESTful Services",
+        "Microservices Architecture"
+    ],
+    "Full Stack Developer (Python/Django)": [
+        "Python",
+        "Django",
+        "DRF (Django Rest Framework)",
+        "PostgreSQL",
+        "HTML/CSS/JS"
+    ],
+    "Full Stack Developer (C#/.NET)": [
+        "C#",
+        ".NET Core/Framework",
+        "ASP.NET MVC/Web API",
+        "SQL Server",
+        "Angular/React"
+    ],
+    "Full Stack Developer (Vue.js/Node.js)": [
+        "Vue.js",
+        "Vuex",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
+    "iOS Developer (SwiftUI)": [
+        "SwiftUI",
+        "Combine",
+        "Xcode",
+        "Design Patterns (MVVM)",
+        "API Consumption"
+    ],
+    "Android Developer (Compose)": [
+        "Jetpack Compose",
+        "Kotlin",
+        "Coroutines/Flow",
+        "Android Architecture Components",
+        "Gradle"
+    ],
+    "Game Designer (Level Design)": [
+        "Unity/Unreal Level Editor",
+        "Narrative Design",
+        "Blockout/Prototyping",
+        "Environmental Storytelling",
+        "Scripting (Basic)"
+    ],
+    "Technical Artist (VFX)": [
+        "Houdini/Maya",
+        "Shader Programming (HLSL/GLSL)",
+        "Particle Systems",
+        "PBR Materials",
+        "Game Engine Integration"
+    ],
+    "Simulation Engineer (Ansys/Abaqus)": [
+        "FEA/CFD (Ansys/Abaqus)",
+        "Meshing",
+        "Material Science",
+        "Model Validation",
+        "Optimization"
+    ],
+    "Signal Integrity Engineer (VLSI)": [
+        "IBIS Modeling",
+        "High-Speed Design",
+        "Transmission Line Theory",
+        "Spice Simulation",
+        "Electromagnetic Theory"
+    ],
+    "Physical Design Engineer (VLSI)": [
+        "Place and Route",
+        "Timing Closure (STA)",
+        "Power Grid Analysis",
+        "DRC/LVS Verification",
+        "TCL Scripting"
+    ],
+    "Test and Debug Engineer (IC)": [
+        "ATE Programming (Teradyne/Advantest)",
+        "DFT (Design for Test)",
+        "Scan/JTAG",
+        "Fault Coverage",
+        "Yield Analysis"
+    ],
+    "CAD/EDA Tools Engineer": [
+        "Tool Installation/Management (Cadence/Synopsys)",
+        "PDK Management",
+        "Shell Scripting (Perl/Python)",
+        "Design Flow Automation"
+    ],
+    "Bioinformatics Scientist": [
+        "R/Python",
+        "Genomic Data Analysis (NGS)",
+        "Biostatistics",
+        "Machine Learning (Bio)",
+        "High-Performance Computing"
+    ],
+    "Genomic Data Engineer": [
+        "Cloud (AWS/GCP)",
+        "Workflow Tools (Snakemake/Nextflow)",
+        "Database (NoSQL/SQL)",
+        "Data Pipelines (ETL)",
+        "Variant Calling"
+    ],
+    "Healthcare Interoperability Specialist": [
+        "HL7/FHIR Standards",
+        "Integration Engines (Mirth)",
+        "Clinical Data Modeling",
+        "Data Exchange Protocols",
+        "HIPAA Compliance"
+    ],
+    "Supply Chain Developer (SAP Ariba)": [
+        "SAP Ariba Upstream/Downstream",
+        "Integration (IDocs/APIs)",
+        "Sourcing/Procurement Processes",
+        "AQL",
+        "Configuration"
+    ],
+    "Warehouse Management System (WMS) Specialist": [
+        "WMS Software (Manhattan/SAP EWM)",
+        "RF/Barcode Technology",
+        "Inventory Optimization",
+        "Logistics Processes",
+        "Integration"
+    ],
+    "Aerospace Structures Engineer (FEM)": [
+        "NASTRAN/Patran",
+        "Structural Loads Analysis",
+        "Fatigue & Damage Tolerance",
+        "Composite Materials",
+        "Certification (FAA/EASA)"
+    ],
+    "Energy Trader/Optimisation Analyst": [
+        "E-pex/MCX Trading Platforms",
+        "Market Dynamics (Day-ahead)",
+        "Optimization Algorithms (LP/MILP)",
+        "Python (Trading Bots)",
+        "Risk Management (Hedge)"
+    ],
+    "Environmental Compliance Specialist (Tech)": [
+        "EHS Software (e.g., Enablon)",
+        "Environmental Data Management",
+        "Air/Water Quality Monitoring",
+        "ISO 14001",
+        "Permitting"
+    ],
+    "Oil & Gas SCADA Technician": [
+        "Wellhead Control Systems",
+        "Telemetry (Radio/Satellite)",
+        "HMI/RTU Configuration",
+        "Gas Chromatographs",
+        "Flow Metering"
+    ],
+    "Smart City Solutions Architect": [
+        "IoT Platform Design (LoRaWAN/NB-IoT)",
+        "Urban Data Analytics",
+        "Digital Infrastructure Planning",
+        "Security/Privacy (Urban)",
+        "Public-Private Partnerships"
+    ],
+    "Generative AI Specialist (Art/Design)": [
+        "Midjourney/DALL-E Prompting",
+        "Stable Diffusion Fine-Tuning",
+        "ControlNet",
+        "Image/Video Post-Processing (Adobe)",
+        "Creative Direction"
+    ],
+    "Voice/Chatbot Developer": [
+        "Google Dialogflow/Amazon Lex",
+        "NLU/NLP",
+        "Speech Synthesis (TTS)",
+        "A/B Testing (Bot Metrics)",
+        "API Integration"
+    ],
+    "IT Auditor": [
+        "SOX/ISO 27001/PCI DSS",
+        "Risk Assessment",
+        "Control Testing",
+        "Audit Planning",
+        "Data Analytics (ACL/IDEA)"
+    ],
+    "Cloud Cost Analyst (Azure/GCP)": [
+        "Azure Cost Management/GCP Billing",
+        "Resource Tagging Strategy",
+        "Commitment Discounts",
+        "Cost Visualization (Power BI)",
+        "Consumption Monitoring"
+    ],
+    "Web Performance Optimization Specialist": [
+        "WebPageTest/Lighthouse",
+        "Core Web Vitals",
+        "CDN Configuration (Akamai/Cloudflare)",
+        "Asset Compression/Caching",
+        "Browser Rendering"
+    ],
+    "Technical Writer (API Focus)": [
+        "OpenAPI/Swagger",
+        "Markdown/Sphinx",
+        "Doc-as-Code (Git)",
+        "Developer Portals",
+        "UX Writing Principles"
+    ],
+    "Customer Success Operations (CS Ops)": [
+        "CRM (Salesforce/Gainsight) Admin",
+        "Customer Health Scoring",
+        "Churn Prediction Models",
+        "Process Automation (Zendesk)",
+        "SaaS Metrics"
+    ],
+    "Legal Tech Developer": [
+        "Contract Analysis (NLP)",
+        "eDiscovery Tools",
+        "Compliance Software (RegTech)",
+        "Document Automation",
+        "Python (Legal Analytics)"
+    ],
+    "FinTech Risk Modeling Analyst": [
+        "Credit Risk Modeling (PD/LGD)",
+        "Stress Testing",
+        "Regulatory Reporting (Basel)",
+        "R/Python (Quant Libraries)",
+        "Monte Carlo Simulation"
+    ],
+    "Quantitative Developer (C++/Python)": [
+        "High-Frequency Trading (HFT)",
+        "Low-Latency Programming",
+        "Market Data APIs (Bloomberg)",
+        "Algorithm Implementation",
+        "Code Optimization"
+    ],
+    "Treasury Management System (TMS) Consultant": [
+        "Kyriba/FIS TMS",
+        "Cash Management",
+        "In-House Banking",
+        "Payment Integration (SWIFT)",
+        "Financial Instruments"
+    ],
+    "Hedge Fund Portfolio Manager (Systematic)": [
+        "Alpha Research",
+        "Backtesting/Simulation",
+        "Optimization (Portfolio)",
+        "Risk Parity",
+        "Factor Modeling"
+    ],
+    "Media Asset Management (MAM) Specialist": [
+        "MAM Software (Dalet/Evertz)",
+        "Metadata Schemas (IPTC)",
+        "Video Transcoding/Encoding",
+        "Cloud Storage (Media)",
+        "Broadcast Workflows"
+    ],
+    "Broadcast Automation Engineer": [
+        "Playout Systems (Grass Valley)",
+        "Master Control Operations",
+        "Video Routers/Switchers",
+        "Baseband/IP Video (SMPTE 2110)",
+        "NOC Monitoring"
+    ],
+    "Ad Tech Engineer (DSP/SSP)": [
+        "RTB (Real-Time Bidding)",
+        "Ad Exchange APIs",
+        "Latency Optimization",
+        "Data Management Platforms (DMPs)",
+        "JavaScript (Client-Side Tracking)"
+    ],
+    "EdTech Platform Developer": [
+        "LMS Integration (Moodle/Canvas)",
+        "SCORM/xAPI Standards",
+        "Gamification Mechanics",
+        "Accessibility (WCAG)",
+        "Mobile Learning (mLearning)"
+    ],
+    "Travel Tech GDS Developer": [
+        "Global Distribution Systems (GDS-Amadeus/Sabre)",
+        "NDC/ONE Order",
+        "Fare Construction/Ticketing",
+        "API Integration (Airlines)",
+        "Payment Gateways (PCI DSS)"
+    ],
+    "Hospital Information System (HIS) Administrator": [
+        "EMR/EHR Systems (Epic/Cerner)",
+        "Clinical Workflow Mapping",
+        "User Access/Security",
+        "System Upgrades/Patches",
+        "Training"
+    ],
+    "Data Scientist (Clinical Trials)": [
+        "SAS/R/Python",
+        "Statistical Analysis Plans (SAPs)",
+        "CDISC Standards (SDTM/ADaM)",
+        "Regulatory Submissions (FDA)",
+        "Bayesian Statistics"
+    ],
+    "Public Cloud FinOps Specialist": [
+        "Cost Explorer/Cost Anomaly Detection",
+        "Cloud Financial Management",
+        "Showback/Chargeback",
+        "Resource Utilization Reporting",
+        "Consumption Governance"
+    ],
+    "DevSecOps Evangelist": [
+        "Security Tool Chain Automation",
+        "Policy-as-Code (Open Policy Agent)",
+        "Security Metrics (DORA)",
+        "Culture Change/Training",
+        "Compliance Automation"
+    ],
+    "IoT Fleet Management Developer": [
+        "MQTT/CoAP Protocols",
+        "GPS/Telematics Data Processing",
+        "Geofencing",
+        "Edge Computing (Microcontrollers)",
+        "Real-Time Visualization"
+    ],
+    "Space Systems Software Engineer": [
+        "Satellite Ground Station Software",
+        "Telemetry/Command Processing",
+        "Orbital Mechanics (Astrodynamics)",
+        "C++ (Real-Time)",
+        "Mission Control Systems"
+    ],
+    "Quantum Hardware Engineer": [
+        "Cryogenics/Dilution Refrigerators",
+        "Microwave/RF Engineering (Quantum)",
+        "Fabrication (Superconducting Qubits)",
+        "CAD (3D Modeling)",
+        "Experimental Physics"
+    ],
+    "Ethical AI/ML Compliance Specialist": [
+        "AI Ethics Frameworks (NIST)",
+        "Fairness/Bias Auditing (AIF360)",
+        "Explainable AI (XAI-LIME/SHAP)",
+        "Data Privacy (Homomorphic Encryption)",
+        "Regulatory Impact Analysis"
+    ],
+    "Robotics Perception Engineer": [
+        "LiDAR/Camera Fusion",
+        "SLAM (Simultaneous Localization and Mapping)",
+        "Point Cloud Processing (PCL)",
+        "Computer Vision (Advanced)",
+        "ROS 2 (Perception Stack)"
+    ],
+    "Network Reliability Engineer (NRE)": [
+        "eBGP/iBGP Protocol Analysis",
+        "Junos/NX-OS/IOS-XR",
+        "Network Automation (Netmiko/NAPALM)",
+        "Telemetry Monitoring",
+        "Optical Transport Technologies"
+    ],
+    "Unified Endpoint Management (UEM) Engineer": [
+        "Microsoft Intune/Workspace ONE",
+        "Mobile Device Management (MDM)",
+        "Application Packaging (MSIX)",
+        "Conditional Access Policies",
+        "Endpoint Security"
+    ],
+    "Identity Governance & Administration (IGA) Analyst": [
+        "SailPoint/Saviynt",
+        "User Lifecycle Management",
+        "Access Certification Campaigns",
+        "Role-Based Access Control (RBAC)",
+        "Segregation of Duties (SoD)"
+    ],
+    "Digital Process Automation (DPA) Consultant": [
+        "BPMN (Business Process Modeling Notation)",
+        "RPA Tools (UiPath/Automation Anywhere)",
+        "Process Mining (Celonis)",
+        "Intelligent Document Processing (IDP)",
+        "Workflow Engines"
+    ],
+    "Knowledge Management Specialist": [
+        "SharePoint/Confluence/KCS",
+        "Taxonomy/Ontology Design",
+        "Content Auditing",
+        "Search Engine Optimization (Internal)",
+        "Information Architecture"
+    ],
+    "Learning Management System (LMS) Administrator": [
+        "LMS Platforms (Cornerstone/SuccessFactors)",
+        "SCORM/AICC Content Standards",
+        "User Enrollment/Reporting",
+        "Integration (HRIS)",
+        "Instructional Technology"
+    ],
+    "Corporate Social Responsibility (CSR) Reporting Analyst": [
+        "GRI Standards",
+        "ESG Data Collection/Validation",
+        "Sustainability Software (e.g., Sphera)",
+        "Data Visualization",
+        "Stakeholder Engagement"
+    ],
+    "Technical Writer (Security Policy)": [
+        "NIST CSF/ISO 27001 Documentation",
+        "Security Policy Development",
+        "Standard Operating Procedures (SOPs)",
+        "Risk Mappings",
+        "Technical Editing"
+    ],
+    "IT Financial Analyst (Showback/Chargeback)": [
+        "Cost Allocation Methodologies",
+        "IT Service Catalog Pricing",
+        "Hyperion/Anaplan",
+        "Variance Analysis",
+        "Budgeting/Forecasting"
+    ],
+    "Customer Experience (CX) Technologist": [
+        "CRM Platforms (Advanced Admin)",
+        "Journey Mapping Tools",
+        "VoC (Voice of Customer) Data Analysis",
+        "Omnichannel Integration",
+        "Personalization Engines"
+    ],
+    "Data Scientist (Supply Chain Forecasting)": [
+        "Inventory Optimization Models",
+        "Demand Sensing/Forecasting (ARIMA/ML)",
+        "Stochastic Modeling",
+        "SQL/Python",
+        "SAP APO/IBP"
+    ],
+    "Cloud Data Engineer (Snowflake/Databricks)": [
+        "Snowflake/Databricks",
+        "Cloud Data Warehousing",
+        "ELT/ETL Pipelines (Fivetran/Talend)",
+        "SQL/Python/Scala",
+        "Data Vault Modeling"
+    ],
+    "Digital Marketing Analyst (Paid Media)": [
+        "Google Ads/Facebook Ads API",
+        "Bid Strategy Optimization",
+        "Attribution Modeling",
+        "SQL",
+        "Conversion Rate Optimization (CRO)"
+    ],
+    "Product Marketing Technologist (PMM)": [
+        "Marketing Automation (Marketo/HubSpot)",
+        "Sales Enablement Tools (Seismic)",
+        "CRM Integration",
+        "Product Demo Development",
+        "Competitive Analysis Tools"
+    ],
+    "Technical Recruiter (Niche Tech)": [
+        "Boolean Search (Advanced)",
+        "Sourcing Platforms (GitHub/Stack Overflow)",
+        "Compensation Analysis",
+        "Technical Screening (Basic)",
+        "Employer Branding (Tech)"
+    ],
+    "SaaS Implementation Consultant": [
+        "Client Requirements Gathering",
+        "Configuration/Customization (SaaS)",
+        "Data Migration (ETL)",
+        "User Acceptance Testing (UAT)",
+        "Go-Live Support"
+    ],
+    "Oracle EBS/Cloud Financials Developer": [
+        "PL/SQL",
+        "Forms/Reports Development",
+        "Workflow Customization (AP/GL)",
+        "Cloud Integration (OIC)",
+        "Financial Modules (Fusion)"
+    ],
+    "SAP Basis Administrator": [
+        "System Installation/Upgrade (S/4HANA)",
+        "Transport Management (STMS)",
+        "Database Administration (HANA)",
+        "Security/Patching",
+        "Monitoring (Solution Manager)"
+    ],
+    "Workday HCM Integration Specialist": [
+        "Workday Studio",
+        "EIB/Core Connectors",
+        "XSLT/xPath",
+        "BIRT Reporting",
+        "HR/Payroll Process Knowledge"
+    ],
+    "Infor LN/M3 Technical Consultant": [
+        "Infor Development Tools (e.g., Mongoose)",
+        "SQL/Database",
+        "Enterprise Structure Setup",
+        "Manufacturing/Distribution Modules",
+        "Customization"
+    ],
+    "Dynamics 365 CE/Power Platform Developer": [
+        "C#/.NET (Plugins/Workflows)",
+        "JavaScript (Client-Side)",
+        "Power Apps/Power Automate",
+        "Dataverse/CDS",
+        "Solution Management"
+    ],
+    "Adobe Experience Manager (AEM) Developer": [
+        "Java (OSGi Bundles)",
+        "Sling/JCR",
+        "Touch UI Components",
+        "Dispatcher Configuration",
+        "Front-end (HTL/JS)"
+    ],
+    "Site Reliability Engineer (Azure)": [
+        "Azure DevOps/Pipelines",
+        "Terraform/Bicep",
+        "Azure Monitor/Log Analytics",
+        "Chaos Engineering (Basic)",
+        "Service Mesh (Linkerd/Istio)"
+    ],
+    "Site Reliability Engineer (GCP)": [
+        "Cloud Build/Deployment Manager",
+        "Stackdriver/Cloud Monitoring",
+        "Go/Python Scripting",
+        "Traffic Management (Load Balancing)",
+        "Error Budget/SLO Management"
+    ],
+    "Front-End Developer (Angular)": [
+        "Angular",
+        "RxJS",
+        "TypeScript",
+        "Karma/Jasmine (Testing)",
+        "State Management (NgRx)"
+    ],
+    "Front-End Developer (Vue.js)": [
+        "Vue.js",
+        "Vue Router",
+        "Vuex/Pinia",
+        "Nuxt.js",
+        "Component Libraries (Vuetify)"
+    ],
+    "Backend Developer (Kotlin/Spring)": [
+        "Kotlin",
+        "Spring Boot",
+        "JVM Ecosystem",
+        "Reactive Programming (WebFlux)",
+        "Microservices"
+    ],
+    "Backend Developer (Node.js/NestJS)": [
+        "Node.js",
+        "NestJS",
+        "TypeScript",
+        "Express.js",
+        "GraphQL/REST"
+    ],
+    "Robotics Software Engineer (ROS)": [
+        "ROS/ROS 2",
+        "C++/Python",
+        "Perception (LiDAR/Cameras)",
+        "Kinematics/Motion Planning",
+        "Gazebo Simulation"
+    ],
+    "Data Quality Engineer": [
+        "Data Profiling Tools (e.g., Informatica DQ)",
+        "SQL (Advanced)",
+        "Data Cleansing Techniques",
+        "Rule Engine Development",
+        "Metadata Management"
+    ],
+    "Data Architect (NoSQL)": [
+        "Cassandra/MongoDB/Redis",
+        "CAP Theorem",
+        "Sharding/Replication",
+        "Document Modeling",
+        "Performance Tuning"
+    ],
+    "Computer Vision Engineer (Edge AI)": [
+        "TensorFlow Lite/OpenVINO",
+        "Model Quantization",
+        "Embedded C++ (Vision)",
+        "Inference Optimization",
+        "Hardware Acceleration (e.g., NVIDIA Jetson)"
+    ],
+    "Augmented Reality Designer (Spatial UX)": [
+        "ARKit/ARCore",
+        "Unity/Unreal (AR Specifics)",
+        "3D Interaction Design",
+        "Prototyping Tools (Reality Composer)",
+        "Visual Programming"
+    ],
+    "Digital Twin Architect": [
+        "IoT Platforms (MindSphere/Azure Digital Twins)",
+        "System Integration (OT/IT)",
+        "3D Visualization Libraries",
+        "Simulation Modeling",
+        "Data Contextualization"
+    ],
+    "Aerospace Guidance Navigation & Control (GNC) Engineer": [
+        "MATLAB/Simulink (GNC Blockset)",
+        "Kalman Filters",
+        "Control Theory",
+        "Flight Dynamics",
+        "C++"
+    ],
+    "Industrial IoT (IIoT) Engineer": [
+        "OPC UA/Modbus/ProfiNet",
+        "Edge Gateways",
+        "Time-Series Databases (InfluxDB)",
+        "PLC/SCADA Integration",
+        "Protocol Translation"
+    ],
+    "Smart Metering Data Analyst": [
+        "AMI Data Processing",
+        "Load Profile Analysis",
+        "Revenue Assurance",
+        "Python/R (Statistical Analysis)",
+        "MDM System (Meter Data Management)"
+    ],
+    "Hydro Power Plant Control Engineer": [
+        "Governor/Excitation Systems",
+        "Turbine Control (PLC)",
+        "Plant SCADA/DCS",
+        "Simulation Models",
+        "Hydraulics"
+    ],
+    "Thermal Power Plant Chemist (IT Focus)": [
+        "Water Chemistry Monitoring Systems",
+        "Laboratory Information Management Systems (LIMS)",
+        "Process Optimization",
+        "Data Logging/Reporting",
+        "Corrosion Control"
+    ],
+    "Solar PV SCADA Engineer": [
+        "String/Inverter Monitoring",
+        "DAS (Data Acquisition Systems)",
+        "Plant Control Systems",
+        "Network Design (Solar Farms)",
+        "Power Quality Analysis"
+    ],
+    "Cybersecurity Analyst (OT/ICS)": [
+        "DNP3/Modbus Security",
+        "Purdue Model",
+        "Intrusion Detection (OT-Specific)",
+        "Vulnerability Assessment (ICS)",
+        "Penetration Testing (OT)"
+    ],
+    "Cloud Networking Specialist (GCP)": [
+        "VPC/Shared VPC",
+        "Cloud Interconnect/VPN",
+        "Load Balancing (L7/L4)",
+        "Network Policy",
+        "Traffic Management"
+    ],
+    "Cloud Networking Specialist (AWS)": [
+        "VPC/Transit Gateway",
+        "Direct Connect/VPN",
+        "Route 53/CloudFront",
+        "Security Groups/NACLs",
+        "Network Firewall"
+    ],
+    "Cloud Storage Architect (Azure)": [
+        "Azure Blob Storage/Files/Disk",
+        "Data Lake Gen2",
+        "Storage Replication/DR",
+        "Cost Optimization",
+        "Storage Security"
+    ],
+    "API Gateway Developer (Apigee/Kong)": [
+        "Apigee/Kong Configuration",
+        "API Security Policies (OAuth/JWT)",
+        "Traffic Management",
+        "Rate Limiting",
+        "Developer Portals"
+    ],
+    "Web Accessibility Specialist (WCAG)": [
+        "WCAG 2.1 Compliance",
+        "Assistive Technologies (Screen Readers)",
+        "HTML/CSS/ARIA",
+        "Accessibility Auditing (axe)",
+        "Remediation"
+    ],
+    "Internationalization (i18n) Engineer": [
+        "Localization Management Systems (LMS)",
+        "Gettext/Resource Files",
+        "Unicode/Character Encoding",
+        "RTL/Bi-Directional Support",
+        "Pseudo-Localization"
+    ],
+    "Sales Enablement Manager (Tech Content)": [
+        "Content Strategy (Sales Funnel)",
+        "Sales Training Platform (LMS)",
+        "CRM Integration (Content Usage)",
+        "Messaging/Positioning",
+        "Sales Playbooks"
+    ],
+    "Technical Due Diligence Analyst": [
+        "Code Review (High Level)",
+        "Architecture Review",
+        "Security Audit (Initial)",
+        "IP Ownership Review",
+        "Team/Process Assessment"
+    ],
+    "Change Data Capture (CDC) Engineer": [
+        "Kafka Connect/Debezium",
+        "Database Replication (PostgreSQL/Oracle)",
+        "Data Latency Monitoring",
+        "Schema Evolution",
+        "Real-Time Data Streams"
+    ],
+    "Data Lineage Specialist": [
+        "Metadata Tools (Collibra/Alation)",
+        "Data Flow Mapping",
+        "End-to-End Tracing",
+        "Impact Analysis",
+        "Regulatory Reporting"
+    ],
+    "Compliance Consultant (PCI DSS)": [
+        "PCI DSS Requirements",
+        "SAQ/AOC Documentation",
+        "Quarterly Scans",
+        "Penetration Testing Scope",
+        "Remediation Planning"
+    ],
+    "Security Awareness & Training Manager": [
+        "Phishing Simulation Platforms",
+        "Curriculum Development (Security)",
+        "Metrics (Click Rates/Completion)",
+        "Gamification",
+        "Behavioral Science"
+    ],
+    "Digital Twin Developer (Industrial)": [
+        "OPC UA/MQTT Integration",
+        "Real-Time Data Processing",
+        "3D Visualization (Three.js)",
+        "Simulation Libraries (Custom)",
+        "Domain Expertise (e.g., HVAC)"
+    ],
+    "Haptic Feedback Developer (VR/Gaming)": [
+        "Haptic Devices SDKs (e.g., Teslasuit)",
+        "Force Feedback Programming",
+        "Tactile Sensation Design",
+        "C#/C++ (Integration)",
+        "VR Engine Development"
+    ],
+    "Game Economist/Monetization Designer": [
+        "In-Game Economy Modeling",
+        "A/B Testing (Pricing)",
+        "SQL (Player Data)",
+        "Virtual Currency Design",
+        "Behavioral Psychology"
+    ],
+    "Cloud Firewall Administrator (Palo Alto/Fortinet)": [
+        "NGFW Configuration (Palo Alto/Fortinet)",
+        "Policy Management",
+        "VPN Tunnels (IPSec)",
+        "Threat Prevention/IDS",
+        "Cloud Integration (API)"
+    ],
+    "Zero Trust Architect": [
+        "Micro-segmentation (NSX/Illumio)",
+        "Least Privilege Access",
+        "BeyondCorp Model",
+        "CASB/SASE Solutions",
+        "Policy Enforcement Points"
+    ],
+    "IT Asset Management (ITAM) Specialist": [
+        "ITAM Tools (Flexera/Snow)",
+        "Software License Optimization (SLO)",
+        "Hardware Inventory",
+        "Audit Readiness (Vendors)",
+        "Contract Management"
+    ],
+    "Unified Communications (UC) Specialist": [
+        "Microsoft Teams/Zoom Administration",
+        "Voice/Video Conferencing Infrastructure",
+        "Contact Center Integration (CCaaS)",
+        "Endpoint Management",
+        "Troubleshooting (Media Quality)"
+    ],
+    "Workforce Management (WFM) Analyst": [
+        "WFM Software (Genesys/Verint)",
+        "Forecasting/Scheduling (Contact Center)",
+        "Staffing Optimization",
+        "Erlang C Formula",
+        "Real-Time Adherence (RTA)"
+    ],
+    "Customer Effort Score (CES) Analyst": [
+        "Survey Design/Deployment",
+        "Statistical Analysis (CES Data)",
+        "Root Cause Analysis (Qualitative)",
+        "Process Improvement",
+        "Customer Journey Mapping"
+    ],
+    "Enterprise Content Management (ECM) Architect": [
+        "ECM Platforms (Documentum/Alfresco)",
+        "Records Management (RM)",
+        "Document Capture/OCR",
+        "Workflow Automation",
+        "Repository Design"
+    ],
+    "Digital Signage/Kiosk Developer": [
+        "HTML5/JavaScript (Embedded)",
+        "CMS Integration (Digital Signage)",
+        "Remote Device Management",
+        "Accessibility (Kiosks)",
+        "Hardware Interfacing"
+    ],
+    "Smart Home/Building Automation Integrator": [
+        "KNX/BACnet/Z-Wave Protocols",
+        "Centralized Control Systems",
+        "Energy Management Systems (EMS)",
+        "IoT Device Programming",
+        "API Integration (Third-Party)"
+    ],
+    "Telehealth Solutions Architect": [
+        "Video Conferencing Platforms (HIPAA Compliant)",
+        "Remote Patient Monitoring (RPM)",
+        "EMR Integration (FHIR)",
+        "Device Security",
+        "Regulatory Compliance"
+    ],
+    "Insurance Actuarial Analyst (Tech Focus)": [
+        "R/Python (Actuarial Models)",
+        "Prophet/Pricing Engines",
+        "Reserving (IFRS 17)",
+        "Data Warehousing",
+        "Stochastic Modeling"
+    ],
+    "Capital Markets - Trading System Support": [
+        "FIX Protocol",
+        "Low Latency Environment Troubleshooting",
+        "Market Data Feeds (e.g., Reuters)",
+        "Exchange Connectivity",
+        "Monitoring (APM Tools)"
+    ],
+    "Environmental Data Scientist (Climate)": [
+        "NetCDF/HDF5 Data Formats",
+        "Climate Models (CMIP)",
+        "Geospatial Analysis (Raster/Vector)",
+        "Python (Scientific Libraries)",
+        "Visualization (e.g., Paraview)"
+    ],
+    "Battery Energy Storage System (BESS) Engineer": [
+        "Li-ion/Flow Battery Technology",
+        "Power Conversion Systems (PCS)",
+        "BMS (Battery Management System)",
+        "Grid Connection Requirements",
+        "Control Algorithms"
+    ],
+    "Renewable Energy PPA Analyst": [
+        "Power Purchase Agreement (PPA) Modeling",
+        "Financial Valuation (NPV/IRR)",
+        "Market Price Forecasting",
+        "Regulatory Analysis",
+        "Excel (Advanced Modeling)"
+    ],
+    "Hydrogen Fuel Cell Engineer (Control)": [
+        "Fuel Cell Stacks (Modeling)",
+        "Control Systems (PLC/Embedded)",
+        "Hydrogen Storage/Safety",
+        "Thermal Management",
+        "Sensors/Actuators"
+    ],
+    "Offshore Wind Turbine Monitoring Analyst": [
+        "SCADA Data (Wind Turbines)",
+        "Condition Monitoring (Vibration)",
+        "Statistical Process Control (SPC)",
+        "Fatigue Analysis",
+        "Optimization Algorithms"
+    ],
+    "Waste-to-Energy Process Engineer (IT)": [
+        "Process Simulation Software (e.g., Aspen)",
+        "SCADA/DCS for Waste Plants",
+        "Data Analysis (Throughput/Emissions)",
+        "IoT Monitoring",
+        "Mass/Energy Balance"
+    ],
+    "Microgrid Controller Developer": [
+        "Distributed Energy Resources (DER) Control",
+        "Islanded/Grid-Connected Operation",
+        "Optimization (Mixed Integer Linear Programming)",
+        "Real-Time Control Systems",
+        "OPC UA"
+    ],
+    "Energy Efficiency Consultant (Software)": [
+        "Energy Audit Software (e.g., Trane TRACE)",
+        "Building Management Systems (BMS) Data",
+        "Regression Analysis (Consumption)",
+        "Retro-Commissioning",
+        "Measurement & Verification (M&V)"
+    ],
+    "Utility Vegetation Management Specialist (GIS)": [
+        "LiDAR/Satellite Imagery Analysis",
+        "Predictive Growth Modeling",
+        "Field Crew Management (Mobile Apps)",
+        "GIS (ArcGIS Enterprise)",
+        "Compliance Reporting (NERC)"
+    ],
+    "Power System Automation Engineer (Distribution)": [
+        "Feeder Automation",
+        "Recloser/Capacitor Bank Control",
+        "ADMS/DMS (Advanced Distribution Management System)",
+        "SCADA Protocols (DNP3)",
+        "Self-Healing Grid"
+    ],
+    "Power Plant Historian Administrator": [
+        "OSIsoft PI/Aspen IP.21",
+        "Data Tag Creation/Management",
+        "Performance Calculation Engines",
+        "System Integration (DCS/PLC)",
+        "Data Visualization (PI Vision)"
+    ],
+    "Electromagnetic Compatibility (EMC) Engineer": [
+        "EMC Testing (Anechoic Chamber)",
+        "Shielding/Grounding Design",
+        "EMI/RFI Filtering",
+        "Regulatory Standards (FCC/CE)",
+        "Signal Integrity (Crosstalk)"
+    ],
+    "Thermal Management Engineer (Electronics)": [
+        "CFD (Thermal Analysis)",
+        "Heat Sink/Fan Selection",
+        "Component Placement Optimization",
+        "Thermal Testing (IR Camera)",
+        "Material Science (Thermal Pads)"
+    ],
+    "ASIC/FPGA Design Engineer": [
+        "VHDL/Verilog",
+        "RTL Coding",
+        "Synthesis/P&R Tools",
+        "Timing Constraints (SDC)",
+        "FPGA Architectures (Xilinx/Altera)"
+    ],
+    "Semiconductor Process Engineer (IT)": [
+        "MES/CIM Systems (Manufacturing)",
+        "Yield Management Systems",
+        "Statistical Process Control (SPC)",
+        "Equipment Interfacing (SECS/GEM)",
+        "Data Analysis (R/Python)"
+    ],
+    "Photovoltaic (PV) Module Scientist": [
+        "Solar Cell Physics",
+        "Module Reliability Testing (IEC)",
+        "Materials Science (Encapsulants)",
+        "Production Yield Optimization",
+        "Failure Analysis (EL/IR)"
+    ],
+    "Battery Management System (BMS) Software Developer": [
+        "C/C++ (Embedded)",
+        "State-of-Charge (SOC) Algorithms",
+        "Cell Balancing/Safety Logic",
+        "CAN/LIN Communication",
+        "Real-Time OS (RTOS)"
+    ],
+    "Automotive LiDAR Engineer": [
+        "LiDAR Sensor Fusion",
+        "Point Cloud Algorithms",
+        "Calibration Routines",
+        "C++ (High-Performance)",
+        "Autonomous Driving Stacks"
+    ],
+    "IoT Firmware Security Engineer": [
+        "Secure Boot Implementation",
+        "Trusted Platform Module (TPM)",
+        "Cryptography (Lightweight)",
+        "Protocol Fuzzing",
+        "Reverse Engineering (Firmware)"
+    ],
+    "Industrial Cybersecurity Penetration Tester": [
+        "Physical Access Bypass",
+        "Wireless Protocols (IoT/IIoT)",
+        "Network Taps (ICS)",
+        "Payload Development (OT)",
+        "Social Engineering (Physical)"
+    ],
+    "Cloud Security Architect (SASE/ZTA)": [
+        "Secure Access Service Edge (SASE)",
+        "Zero Trust Architecture (ZTA)",
+        "Micro-segmentation",
+        "DLP/CASB Integration",
+        "Policy Orchestration"
+    ],
+    "Vulnerability Management Specialist (CISA/NVD)": [
+        "Vulnerability Scanners (Nessus/Qualys)",
+        "Patch Management Automation",
+        "Risk Scoring (CVSS)",
+        "CISA/NVD/Vendor Advisories",
+        "Remediation Tracking"
+    ],
+    "GCP Cloud FinOps Engineer": [
+        "GCP Cost Management/Billing API",
+        "Committed Use Discounts (CUDs)",
+        "Resource Hierarchy/Labeling",
+        "BigQuery (Cost Data Analysis)",
+        "Terraform (Cost Optimization)"
+    ],
+    "AWS FinOps Engineer (Serverless Focus)": [
+        "Lambda Cost Optimization",
+        "DynamoDB Provisioning",
+        "S3 Storage Classes",
+        "Cost Explorer/Compute Optimizer",
+        "Reserved Instance Management"
+    ],
+    "Telecommunications Billing System Analyst": [
+        "BSS/OSS Systems (e.g., Amdocs)",
+        "Rating/Charging Engines",
+        "Revenue Assurance",
+        "Mediation/Invoicing",
+        "SQL (Billing Data)"
+    ],
+    "Network Function Virtualization (NFV) Engineer": [
+        "SDN/NFV Concepts",
+        "OpenStack/VMware",
+        "VNF Deployment/Management",
+        "Service Chaining",
+        "ETSI NFV Standards"
+    ],
+    "5G Core Network Engineer": [
+        "5G Core Architecture (AMF/SMF/UPF)",
+        "SBA (Service-Based Architecture)",
+        "Cloud Native Telco (CNF/Kubernetes)",
+        "Control/User Plane Protocols",
+        "IMS/VoNR"
+    ],
+    "Satellite Communications Engineer (VSAT)": [
+        "VSAT Systems (Hub/Remote)",
+        "Antenna Design/Alignment",
+        "Link Budget Analysis",
+        "Satellite Tracking (Pointing)",
+        "Modulation/Coding"
+    ],
+    "Digital Process Automation (DPA) Architect": [
+        "BPM Suites (Appian/Pega)",
+        "Low-Code Development (Advanced)",
+        "System Integration (APIs)",
+        "Process Governance",
+        "Center of Excellence (CoE) Setup"
+    ],
+    "Technical Writer (Compliance/Regulatory)": [
+        "SOPs (Standard Operating Procedures)",
+        "Quality System Documentation (QMS)",
+        "GxP/Validation Documentation (Pharma)",
+        "Change Control Process",
+        "Style Guides"
+    ],
+    "Salesforce Marketing Cloud Consultant": [
+        "Journey Builder",
+        "Email Studio/Content Builder",
+        "AMPscript",
+        "Integration (Sales Cloud)",
+        "Segmentation/Personalization"
+    ],
+    "HR Tech Systems Analyst (SuccessFactors)": [
+        "SuccessFactors Modules (e.g., EC, Recruiting)",
+        "Data Mapping/Migration",
+        "Integration Center/APIs",
+        "Configuration/Testing",
+        "HR Process Knowledge"
+    ],
+    "IT Procurement Specialist (Cloud/SaaS)": [
+        "Cloud Service Agreements (CSAs)",
+        "SaaS Contract Negotiation",
+        "Vendor Risk Assessment",
+        "Spend Analysis (Software)",
+        "TCO Modeling"
+    ],
+    "Business Process Modeler (BPMN)": [
+        "BPMN 2.0 (Modeling Tools)",
+        "Process Simulation",
+        "As-Is/To-Be Analysis",
+        "Value Stream Mapping (VSM)",
+        "Requirements Documentation"
+    ],
+    "Enterprise Architect (TOGAF/ArchiMate)": [
+        "TOGAF ADM",
+        "ArchiMate Modeling",
+        "Application Portfolio Management (APM)",
+        "Technology Roadmap Planning",
+        "Solution Architecture Governance"
+    ],
+    "Head of Site Reliability Engineering (SRE)": [
+        "SRE Culture Adoption",
+        "SLO/Error Budget Management",
+        "Tooling Strategy (Observability)",
+        "Blameless Post-Mortem Process",
+        "Hiring/Mentoring"
+    ],
+    "Chief Information Security Officer (CISO)": [
+        "Security Strategy/Roadmap",
+        "Board Reporting",
+        "Budget Management (Security)",
+        "Legal/Regulatory Compliance (Global)",
+        "Incident Response Leadership"
+    ],
+    "Chief Technology Officer (CTO)": [
+        "Technology Vision/Strategy",
+        "R&D/Innovation Pipeline",
+        "Technical Due Diligence (M&A)",
+        "Architecture Governance",
+        "Engineering Culture"
+    ],
+    "Vice President of Engineering (Platform)": [
+        "Platform Strategy/Roadmap",
+        "Budget/P&L Responsibility",
+        "Hiring/Talent Development",
+        "Scalability/Reliability Metrics",
+        "Cross-Functional Alignment"
+    ],
+    "Director of Product Management (AI/ML)": [
+        "AI Product Strategy",
+        "Model ROI Measurement",
+        "Ethics/Fairness in AI",
+        "Go-to-Market Strategy",
+        "Data Flywheel Design"
+    ],
+    "Principal Engineer (Distributed Systems)": [
+        "System Design (Scale/Resilience)",
+        "Architectural Decision Records (ADRs)",
+        "Code Review (High Impact)",
+        "Mentorship (Senior Engineers)",
+        "Technology Vetting"
+    ],
+    "Lead Software Developer (Security Focus)": [
+        "Secure Coding Practices (e.g., Java/C#)",
+        "Threat Modeling (STRIDE)",
+        "Code Audits",
+        "Security Tool Integration (SAST/DAST)",
+        "Vulnerability Remediation"
+    ],
+    "Data Scientist (Gen AI for Code)": [
+        "Large Language Models (Code Generation)",
+        "Fine-Tuning (Coding Datasets)",
+        "Reinforcement Learning from Human Feedback (RLHF)",
+        "Code Quality Metrics",
+        "Security Vulnerability Detection"
+    ],
+    "Quantum Algorithms Researcher": [
+        "Shor's/Grover's Algorithms",
+        "Quantum Chemistry/Optimization",
+        "Qubit Fidelity/Coherence",
+        "Linear Algebra (Advanced)",
+        "Quantum Programming Languages (e.g., Silq)"
+    ],
+    "Hardware Security Module (HSM) Administrator": [
+        "HSM Devices (Thales/Utimaco)",
+        "Key Management Lifecycle (PKI)",
+        "FIPS 140-2 Compliance",
+        "Cryptographic Operations",
+        "Auditing/Logging"
+    ],
+    "e-Discovery Specialist (Legal Tech)": [
+        "e-Discovery Tools (Relativity/Concordance)",
+        "Data Preservation/Collection",
+        "Review/Production Processes",
+        "Legal Holds",
+        "Chain of Custody"
+    ],
+    "Business Systems Analyst (Procurement)": [
+        "P2P (Procure-to-Pay) Process Mapping",
+        "ERP Configuration (SAP/Oracle)",
+        "Requirements Elicitation",
+        "User Training",
+        "Reporting/Analytics (Spend)"
+    ],
+    "Process Automation Developer (Blue Prism/UiPath)": [
+        "RPA Development (Studio/Designer)",
+        "Control Room/Orchestrator Management",
+        "Process Definition Document (PDD)",
+        "Business Case Development (RPA)",
+        "Attended/Unattended Automation"
+    ],
+    "Enterprise Data Architect (Conceptual/Logical)": [
+        "Conceptual/Logical Data Modeling",
+        "Data Warehouse Design (Inmon/Kimball)",
+        "Data Lakehouse Architecture",
+        "Data Mesh Principles",
+        "Modeling Tools (Erwin/PowerDesigner)"
+    ],
+    "Data Scientist (Marketing Mix Modeling)": [
+        "Bayesian Hierarchical Models",
+        "Media Data Integration",
+        "Causal Inference",
+        "Geo-Lift Studies",
+        "Python/R (Statistical Packages)"
+    ],
+    "Data Analyst (People/HR Analytics)": [
+        "HRIS Data Extraction (e.g., Workday)",
+        "Turnover/Retention Modeling",
+        "Diversity & Inclusion Metrics",
+        "SQL",
+        "Data Storytelling"
+    ],
+    "Principal Front-End Engineer": [
+        "Micro-Frontends Architecture",
+        "WebAssembly (WASM)",
+        "Performance Auditing (Advanced)",
+        "Design System Architecture",
+        "Cross-Browser/Device Strategy"
+    ],
+    "Principal Backend Engineer (Scale)": [
+        "Distributed Caching (Redis/Memcached)",
+        "Rate Limiting/Circuit Breakers",
+        "NoSQL Data Modeling",
+        "Async/Event-Driven Architecture",
+        "System Performance Benchmarking"
+    ],
+    "Cloud Architect (Multi-Cloud Strategy)": [
+        "GCP/AWS/Azure Governance",
+        "Cloud FinOps",
+        "Vendor Management",
+        "Policy-as-Code (OPA)",
+        "Hybrid Cloud Design"
+    ],
+    "Backend Developer (Quarkus)": [
+        "Java",
+        "Quarkus Framework",
+        "MicroProfile",
+        "Kubernetes Native",
+        "Hibernate Reactive"
+    ],
+    "Frontend Developer (Svelte/SvelteKit)": [
+        "Svelte/SvelteKit",
+        "TypeScript",
+        "Performance Optimization",
+        "Server-Side Rendering (SSR)",
+        "Vite"
+    ],
+    "Data Scientist (Survival Analysis)": [
+        "R/Python (Survival Packages)",
+        "Kaplan-Meier Estimator",
+        "Cox Proportional Hazards Model",
+        "Biostatistics",
+        "Time-to-Event Modeling"
+    ],
+    "Machine Learning Engineer (Federated Learning)": [
+        "TensorFlow Federated",
+        "Differential Privacy",
+        "Homomorphic Encryption",
+        "Distributed Training",
+        "Client-Server Architecture"
+    ],
+    "DevOps Engineer (GitOps/ArgoCD)": [
+        "ArgoCD/FluxCD",
+        "GitOps Principles",
+        "Kustomize",
+        "Helm",
+        "Kubernetes API"
+    ],
+    "Cloud Security Engineer (SASE)": [
+        "SASE Architecture",
+        "Zscaler/Cisco Umbrella",
+        "Cloud Access Security Broker (CASB)",
+        "VPN-as-a-Service",
+        "Zero Trust Network Access (ZTNA)"
+    ],
+    "Embedded AI Engineer": [
+        "Microcontrollers (ARM Cortex)",
+        "TensorFlow Lite Micro",
+        "Quantization",
+        "Model Compression",
+        "C/C++ (Low-Level)"
+    ],
+    "Acoustic Signal Processing Engineer": [
+        "DSP (Digital Signal Processing)",
+        "MATLAB/Python",
+        "Adaptive Filters",
+        "Beamforming",
+        "Noise Reduction Algorithms"
+    ],
+    "Optical Systems Engineer (Fiber)": [
+        "DWDM/CWDM Systems",
+        "OTDR Testing",
+        "Link Budget Analysis",
+        "Fiber Optic Cable Splicing",
+        "Network Latency"
+    ],
+    "Thermal Fluids Engineer (Electronics)": [
+        "CFD Simulation (FloTHERM)",
+        "Heat Sink Design",
+        "Two-Phase Cooling",
+        "Thermal Characterization",
+        "System Reliability"
+    ],
+    "Wireless Communications Engineer (LTE/5G)": [
+        "OFDM/MIMO",
+        "Radio Frequency (RF) Planning",
+        "Link Budgets",
+        "Protocol Stacks (Layer 2/3)",
+        "Network Optimization"
+    ],
+    "Blockchain Developer (Hyperledger Fabric)": [
+        "GoLang",
+        "Chaincode Development",
+        "Private/Consortium Networks",
+        "Identity Management (CA)",
+        "Consensus Mechanisms"
+    ],
+    "IoT Security Architect (Device Level)": [
+        "Hardware Root of Trust (HRoT)",
+        "Secure Boot",
+        "PKI for IoT",
+        "Firmware Over-The-Air (FOTA) Security",
+        "Resource-Constrained Cryptography"
+    ],
+    "Digital Twin Modeler (Energy Systems)": [
+        "Modelica Language",
+        "System Simulation (Dymola)",
+        "Physics-Based Modeling",
+        "Real-Time Optimization",
+        "Digitalization (OT Data)"
+    ],
+    "E-Commerce Platform Architect (Hybris/Commerce Cloud)": [
+        "SAP Commerce Cloud (Hybris)",
+        "Microservices (E-Commerce)",
+        "Solr Search",
+        "Order Management Systems (OMS)",
+        "Headless Commerce"
+    ],
+    "Digital Asset Management (DAM) Specialist": [
+        "DAM Systems (e.g., Adobe Experience Manager Assets)",
+        "Metadata Taxonomy",
+        "Rights Management",
+        "API Integration",
+        "Content Workflow"
+    ],
+    "Robotics Perception Engineer (Lidar)": [
+        "Point Cloud Library (PCL)",
+        "3D Reconstruction",
+        "Lidar Odometry and Mapping (LOAM)",
+        "ROS (Perception Stack)",
+        "Sensor Calibration"
+    ],
+    "Autonomous Vehicle Safety Engineer": [
+        "ISO 26262 (Functional Safety)",
+        "Safety-Of-The-Intended-Functionality (SOTIF)",
+        "Failure Mode and Effects Analysis (FMEA)",
+        "HazOp",
+        "System Verification"
+    ],
+    "Game AI Programmer (Behavior Trees)": [
+        "Behavior Trees",
+        "Utility AI",
+        "Pathfinding (A*/Dijkstra)",
+        "State Machines",
+        "C++ (Game Engine AI)"
+    ],
+    "Game Developer (VR Interaction)": [
+        "OpenXR/SteamVR SDKs",
+        "Haptic Feedback Integration",
+        "Hand Tracking/Controller Input",
+        "Spatial Audio",
+        "Locomotion Techniques"
+    ],
+    "Cloud Reliability Engineer (Serverless)": [
+        "AWS Lambda Observability (X-Ray)",
+        "Serverless Monitoring (Lumigo)",
+        "Throttling/Concurrency Management",
+        "Serverless Security",
+        "Cold Start Optimization"
+    ],
+    "Data Engineer (Stream Processing - Flink)": [
+        "Apache Flink",
+        "Streaming SQL",
+        "State Management (RocksDB)",
+        "Kafka",
+        "Low-Latency Data Pipelines"
+    ],
+    "Data Architect (Data Mesh)": [
+        "Data Mesh Principles",
+        "Data Product Design",
+        "Domain-Oriented Architecture",
+        "Decentralized Governance",
+        "Data Cataloging"
+    ],
+    "Financial Data Modeler (Bloomberg/Refinitiv)": [
+        "Bloomberg API (BQL)",
+        "Refinitiv Eikon/Workspace",
+        "Time Series Data Cleaning",
+        "Financial Market Data Structures",
+        "Python/R (API Integration)"
+    ],
+    "Cloud Security Analyst (WAF/DDoS)": [
+        "Web Application Firewall (WAF) Admin",
+        "DDoS Mitigation Strategies",
+        "Content Delivery Networks (CDN) Security",
+        "Rate Limiting",
+        "Bot Management"
+    ],
+    "Zero Trust Policy Engineer": [
+        "Micro-segmentation Tools (Illumio)",
+        "Network Policy Enforcement",
+        "Identity Provider (IdP) Integration",
+        "Policy Orchestration",
+        "Policy-as-Code"
+    ],
+    "IT Auditor (Cloud Compliance)": [
+        "CSA STAR Certification",
+        "NIST CSF (Cloud)",
+        "SOC 2 Auditing",
+        "Cloud Security Posture Management (CSPM)",
+        "Cloud Compliance Tools"
+    ],
+    "E-Discovery Architect": [
+        "Relativity/Nuix Platform Administration",
+        "Processing & Review Workflows",
+        "Data Retention Policies",
+        "AI/ML for Document Review",
+        "Legal Hold Management"
+    ],
+    "Technical Writer (Compliance/Legal)": [
+        "Regulatory Documentation (e.g., MDR, FDA)",
+        "Standard Operating Procedures (SOPs)",
+        "Quality Management Systems (QMS)",
+        "Document Control",
+        "Technical Editing"
+    ],
+    "Salesforce Field Service Lightning (FSL) Consultant": [
+        "FSL Mobile App Configuration",
+        "Scheduling & Optimization",
+        "Work Order Management",
+        "Service Cloud",
+        "Apex/Flow"
+    ],
+    "Workday Absence & Time Tracking Specialist": [
+        "Workday Core HCM",
+        "Absence Calendars/Calculations",
+        "Time Clock Integration",
+        "Policy Configuration",
+        "Reporting (Workday)"
+    ],
+    "SAP S/4HANA (FI/CO) Consultant": [
+        "General Ledger (GL)",
+        "Accounts Payable/Receivable (AP/AR)",
+        "Controlling (CO)",
+        "Asset Accounting (AA)",
+        "Fiori Apps"
+    ],
+    "Oracle Cloud HCM Integration Specialist": [
+        "Oracle Integration Cloud (OIC)",
+        "HCM Extracts",
+        "HDL (HCM Data Loader)",
+        "Fast Formulas",
+        "REST/SOAP API"
+    ],
+    "Infor M3 (Finance/Supply Chain) Consultant": [
+        "Infor M3 ERP Configuration",
+        "Movex Explorer",
+        "SQL (Infor Database)",
+        "Functional Process Mapping",
+        "Infor Process Automation (IPA)"
+    ],
+    "Digital Accessibility Specialist (WCAG 2.2)": [
+        "WCAG 2.2 AA",
+        "VPAT/ACR Reporting",
+        "Screen Reader Testing (NVDA/VoiceOver)",
+        "Remediation (HTML/ARIA)",
+        "Automated Accessibility Tools"
+    ],
+    "Enterprise Architect (Business Process Focus)": [
+        "BPMN (Business Process Modeling Notation)",
+        "Process Mining (Celonis)",
+        "Value Stream Mapping",
+        "Process Taxonomy Design",
+        "Business Capabilities Mapping"
+    ],
+    "Product Designer (Design Systems)": [
+        "Figma/Sketch (Design Tokens)",
+        "Component Library Creation",
+        "Accessibility Guidelines",
+        "Documentation (Storybook)",
+        "Cross-Platform Consistency"
+    ],
+    "UX Writer/Content Strategist (Product)": [
+        "Microcopy (Buttons/Errors)",
+        "Tone of Voice Guidelines",
+        "In-Product Messaging",
+        "Information Hierarchy",
+        "A/B Testing (Copy)"
+    ],
+    "Customer Success Operations (CS Ops) Analyst": [
+        "CRM (Gainsight/Chameleon)",
+        "Customer Health Scoring Models",
+        "Churn Prediction",
+        "Playbook Automation",
+        "SaaS Metrics (LTV/CAC)"
+    ],
+    "Data Engineer (Cloud Data Lakes - Delta/Iceberg)": [
+        "Delta Lake/Apache Iceberg",
+        "S3/ADLS/GCS",
+        "Data Cataloging (Hive Metastore)",
+        "Spark Structured Streaming",
+        "Schema Evolution"
+    ],
+    "ML Engineer (Model Explainability - XAI)": [
+        "LIME/SHAP/Interpretable Models",
+        "Adversarial Robustness",
+        "Model Drift Detection",
+        "XAI Frameworks (e.g., AI Explainability 360)",
+        "Ethical AI"
+    ],
+    "Quantitative Analyst (Algorithmic Trading)": [
+        "Python/C++ (Low Latency)",
+        "Backtesting Frameworks (Zipline)",
+        "Time Series Databases (KDB+)",
+        "Order Execution Logic",
+        "Market Microstructure"
+    ],
+    "HPC Storage Administrator (Parallel File Systems)": [
+        "Lustre/GPFS/BeeGFS",
+        "High-Speed Interconnects (InfiniBand)",
+        "RAID/Storage Virtualization",
+        "Storage Monitoring",
+        "Disaster Recovery"
+    ],
+    "Space Systems Engineer (Attitude Control)": [
+        "Attitude Determination and Control System (ADCS)",
+        "Kalman Filtering (Space)",
+        "Reaction Wheels/Thrusters",
+        "Orbital Mechanics",
+        "C++ (Flight Software)"
+    ],
+    "Geothermal Drilling Engineer (Software)": [
+        "Drilling Simulation Software",
+        "Real-Time Data Acquisition (RTDA)",
+        "Well Control Planning",
+        "Geological Data Modeling",
+        "Optimization Algorithms"
+    ],
+    "Nuclear Plant Instrumentation & Control (I&C) Engineer": [
+        "DCS/PLC (Nuclear Grade)",
+        "Sensor Calibration (Radiation Hardened)",
+        "Safety System Design (IEEE Standards)",
+        "Regulatory Compliance (NRC)",
+        "Human-Machine Interface (HMI)"
+    ],
+    "Hydro Power Plant Control Systems Engineer": [
+        "Turbine Governor Control",
+        "Excitation System Modeling",
+        "SCADA Integration (Hydro)",
+        "Simulation (Transient Analysis)",
+        "Unit Commitment"
+    ],
+    "Utility Billing System Analyst (CIS)": [
+        "Customer Information Systems (CIS)",
+        "Meter-to-Cash Process",
+        "Tariff Configuration",
+        "Billing Exceptions",
+        "Regulatory Reporting (Utility)"
+    ],
+    "Smart Grid Communications Engineer (Mesh/PLC)": [
+        "Mesh Network Protocols (e.g., Wi-SUN)",
+        "Power Line Communication (PLC)",
+        "RF Propagation Modeling",
+        "Network Security (AMI)",
+        "Standards (IEEE 802.15.4)"
+    ],
+    "Renewable Energy Asset Performance Analyst": [
+        "SCADA Data Analysis (Solar/Wind)",
+        "Plant Performance Ratio (PR)",
+        "Loss Factor Modeling",
+        "Anomaly Detection",
+        "O&M Optimization"
+    ],
+    "HVDC Converter Station Engineer": [
+        "Thyristor/IGBT Valves",
+        "Converter Control Systems",
+        "Harmonics Filtering",
+        "System Protection (HVDC)",
+        "Commissioning/Testing"
+    ],
+    "Cybersecurity Engineer (Supply Chain Security)": [
+        "SBOM (Software Bill of Materials)",
+        "Vulnerability Disclosure Policy",
+        "Third-Party Risk Management (TPRM)",
+        "Secure Development Lifecycle (SDLC)",
+        "NIST SSDF"
+    ],
+    "API Security Architect (OAuth/OIDC)": [
+        "OAuth 2.0/OpenID Connect (OIDC)",
+        "Microservice Authentication",
+        "API Gateway Security (e.g., Kong, Apigee)",
+        "Token Validation",
+        "JWE/JWS"
+    ],
+    "Endpoint Detection and Response (EDR) Analyst": [
+        "EDR Platforms (CrowdStrike/SentinelOne)",
+        "Threat Hunting (OS Artifacts)",
+        "Malware Analysis (Triage)",
+        "Incident Response Playbooks",
+        "Endpoint Forensics"
+    ],
+    "DevOps Engineer (Chaos Engineering)": [
+        "Chaos Mesh/Gremlin",
+        "Fault Injection Testing",
+        "Resilience Testing",
+        "Observability Stack (Metrics/Logs/Traces)",
+        "Blast Radius Limiting"
+    ],
+    "Data Quality Engineer (Monitoring)": [
+        "Data Observability Platforms (Monte Carlo)",
+        "Data Drift Detection",
+        "Schema Evolution Tracking",
+        "Automated Data Testing",
+        "SLOs for Data Pipelines"
+    ],
+    "Full Stack Developer (Erlang/Elixir)": [
+        "Elixir/Erlang",
+        "Phoenix Framework",
+        "OTP (Open Telecom Platform)",
+        "Functional Programming",
+        "High Availability (HA) Systems"
+    ],
+    "Embedded Systems Engineer (Rust)": [
+        "Embedded Rust (e.g., no_std)",
+        "Microcontroller Peripherals",
+        "Memory Management (Safe Rust)",
+        "Real-Time Embedded",
+        "Hardware Abstraction Layer (HAL)"
+    ],
+    "Telecommunications Engineer (VoLTE/IMS)": [
+        "IMS (IP Multimedia Subsystem)",
+        "VoLTE/VoNR Protocols (SIP)",
+        "Session Border Controllers (SBC)",
+        "QoS (Telephony)",
+        "Packet Core Network"
+    ],
+    "IoT Edge Computing Developer": [
+        "Edge Runtime (e.g., Azure IoT Edge, AWS Greengrass)",
+        "Containerization (Edge)",
+        "Data Ingestion (MQTT/AMQP)",
+        "Offline Synchronization",
+        "Local Processing"
+    ],
+    "Data Scientist (Causal Inference)": [
+        "DoWhy/EconML",
+        "Propensity Score Matching",
+        "Difference-in-Differences (DiD)",
+        "Instrumental Variables (IV)",
+        "DAG (Directed Acyclic Graphs) Modeling"
+    ],
+    "Applied Cryptographer (Post-Quantum)": [
+        "Post-Quantum Cryptography (PQC) Algorithms",
+        "Lattice-Based Cryptography",
+        "Cryptographic Protocol Design",
+        "Key Exchange Mechanisms",
+        "Security Proofs"
+    ],
+    "UX Designer (Generative AI Interfaces)": [
+        "Prompt Workflow Design",
+        "Model Feedback Loops",
+        "Trust and Transparency in AI",
+        "Error State Design",
+        "Tooling (Midjourney/DALL-E Integration)"
+    ],
+    "Technical Writer (SDK/API)": [
+        "SDK Documentation (JavaDoc/Swagger)",
+        "Example Code Generation",
+        "Onboarding Tutorials",
+        "Version Control (Git)",
+        "Developer Experience (DX)"
+    ],
+    "Legal Operations (Legal Ops) Specialist": [
+        "Legal Spend Management",
+        "e-Billing Systems",
+        "Matter Management Software",
+        "KPI/Metric Reporting (Legal)",
+        "Contract Lifecycle Management (CLM)"
+    ],
+    "HRIS Analyst (Global Mobility)": [
+        "Workday/SAP SuccessFactors (Global)",
+        "Expatriate Tax/Payroll Integration",
+        "Visa/Immigration Requirements",
+        "Relocation Management",
+        "Cross-Border Compliance"
+    ],
+    "VP of Product (Growth/Retention)": [
+        "Growth Loops Design",
+        "AARRR Metrics",
+        "Subscription/Monetization Strategy",
+        "Experimentation Pipeline",
+        "Cohort Analysis (Advanced)"
+    ],
+    "Chief Architect (Cloud Native)": [
+        "Cloud Native Computing Foundation (CNCF) Landscape",
+        "Well-Architected Frameworks",
+        "Microservices Governance",
+        "Domain-Driven Design (DDD)",
+        "Organizational Scaling"
+    ],
+    "Director of Engineering (Data Platform)": [
+        "Data Mesh Implementation",
+        "Hiring & Mentoring (Data Roles)",
+        "Budgeting (Cloud Data Costs)",
+        "Data Governance Policy Enforcement",
+        "Platform Reliability"
+    ],
+    "Principal Data Engineer (ETL/ELT Optimization)": [
+        "Spark Tuning (Execution Plans)",
+        "Data Partitioning Strategy",
+        "Query Optimization (SQL)",
+        "Resource Management (YARN/Kubernetes)",
+        "Cost Reduction (Data Processing)"
+    ],
+    "Lead UX Designer (FinTech Compliance)": [
+        "KYC/AML Workflow Design",
+        "Regulatory UX Patterns",
+        "Financial Accessibility Standards",
+        "Complex Form Design",
+        "Error Prevention"
+    ],
+    "IT Asset Management (ITAM) Analyst (Cloud)": [
+        "Cloud License Optimization (BYOL)",
+        "SaaS Management Tools (Zylo)",
+        "Software Audit Defense",
+        "Usage Tracking (Cost/User)",
+        "Contract Reconciliation"
+    ],
+    "Unified Communications Engineer (Contact Center)": [
+        "CCaaS Platforms (Five9/Genesys Cloud)",
+        "IVR/ACD Configuration",
+        "Call Routing Logic",
+        "WFM Integration",
+        "Quality Monitoring (QM)"
+    ],
+    "Desktop Support Engineer (Linux Focus)": [
+        "Linux Desktop Environments (e.g., Ubuntu/Fedora)",
+        "Shell Scripting (Advanced)",
+        "Package Management (apt/yum)",
+        "Troubleshooting Networking",
+        "Hardware Repair (Linux)"
+    ],
+    "Environmental Data Analyst (ESG)": [
+        "ESG Reporting Frameworks (GRI, SASB)",
+        "Data Collection Automation",
+        "Carbon Accounting (GHG Protocol)",
+        "Data Visualization (ESG)",
+        "Sustainability Metrics"
+    ],
+    "Smart City Traffic Management Specialist": [
+        "ITS (Intelligent Transportation Systems)",
+        "Traffic Light Control Algorithms",
+        "Sensor Data Analysis (Loop Detectors, Cameras)",
+        "Simulation Modeling (VISSIM)",
+        "V2X Communication"
+    ],
+    "Space Debris Tracking Scientist": [
+        "Orbital Mechanics (Advanced)",
+        "Radar/Lidar Tracking Systems",
+        "Collision Avoidance Algorithms",
+        "Astrodynamics Software (STK)",
+        "Space Situational Awareness (SSA)"
+    ],
+    "Substation Automation Architect (IEC 61850)": [
+        "IEC 61850 Implementation",
+        "GOOSE/MMS Messaging",
+        "Bay Controller Integration",
+        "Network Configuration (Substation LAN)",
+        "Cybersecurity (Substation)"
+    ],
+    "Distribution Automation (DA) Engineer": [
+        "Recloser/Capacitor Bank Control",
+        "FDIR (Fault Detection, Isolation, Restoration)",
+        "ADMS (Advanced Distribution Management System)",
+        "DNP3 Protocol",
+        "Distribution Network Modeling"
+    ],
+    "Utility Teleprotection Engineer": [
+        "Line Protection Relays (Distance/Differential)",
+        "Communication-Assisted Schemes (POTT/PUTT)",
+        "Testing (Doble/Omicron)",
+        "Regulatory Requirements (NERC)",
+        "System Stability"
+    ],
+    "Power Quality Engineer (Monitoring)": [
+        "Harmonic Analysis (IEEE 519)",
+        "Voltage Sag/Swell Analysis",
+        "Power Quality Meters (PMUs)",
+        "Mitigation Techniques (Filters, UPS)",
+        "System Modeling"
+    ],
+    "Energy Market Settlements Analyst": [
+        "Market Clearing Prices (MCP)",
+        "Financial Transmission Rights (FTRs)",
+        "ISO/RTO Market Rules",
+        "Billing/Invoicing (Energy)",
+        "Dispute Resolution"
+    ],
+    "Nuclear Reactor Core Analyst (Simulation)": [
+        "Neutronics Simulation Codes",
+        "Core Monitoring Systems",
+        "Fuel Management Optimization",
+        "Reactor Physics",
+        "Safety Analysis"
+    ],
+    "Chemical Process Control Engineer (Batch)": [
+        "Batch Control Standards (ISA-88)",
+        "Sequential Function Charts (SFC)",
+        "DCS Configuration (Advanced)",
+        "Recipe Management",
+        "Validation (GxP)"
+    ],
+    "Biomedical Imaging Scientist (MRI/CT)": [
+        "Image Reconstruction Algorithms",
+        "K-Space/Fourier Analysis",
+        "MATLAB/Python (Image Processing)",
+        "DICOM/PACS Standards",
+        "Signal-to-Noise Ratio (SNR) Optimization"
+    ],
+    "Automotive Infotainment Developer": [
+        "Android Automotive OS/QNX",
+        "C++/Java (Infotainment)",
+        "HMI Development (OpenGL)",
+        "Vehicle Bus Protocols (CAN/LIN)",
+        "OTA Updates"
+    ],
+    "Embedded Systems Engineer (MISRA C)": [
+        "MISRA C/C++ Compliance",
+        "Code Static Analysis (Lint)",
+        "Toolchain Qualification",
+        "Low-Level Drivers",
+        "Safety-Critical Systems"
+    ],
+    "Hardware Verification Engineer (Emulation)": [
+        "Emulation Platforms (e.g., Cadence Palladium)",
+        "Testbench Development (UVM)",
+        "Hardware Description Languages (HDL)",
+        "Debugging (HW/SW Co-Verification)",
+        "Transaction-Level Modeling (TLM)"
+    ],
+    "VLSI Design Engineer (Power Management)": [
+        "Low-Power Design Techniques",
+        "Clock Gating/Power Gating",
+        "UPF (Unified Power Format)",
+        "Power Integrity Analysis (IR Drop)",
+        "Power Modeling"
+    ],
+    "Semiconductor Test Engineer (Parametric)": [
+        "Parametric Test Equipment (Keithley)",
+        "Wafer Probing/Sorting",
+        "Statistical Data Analysis (JMP)",
+        "Test Program Development",
+        "Yield Enhancement"
+    ],
+    "Photonics Engineer (Software Focus)": [
+        "Optical Simulation Software (Zemax)",
+        "Wave Propagation Modeling",
+        "Fiber Optic Components",
+        "MATLAB/Python (Simulation)",
+        "Laser Systems"
+    ],
+    "Game Developer (Procedural Generation)": [
+        "Procedural Content Generation (PCG)",
+        "Perlin/Simplex Noise",
+        "Voronoi Diagrams",
+        "L-Systems",
+        "C#/C++ (Generation Logic)"
+    ],
+    "VFX Artist (Technical Director)": [
+        "Houdini (Pyro/Fluids)",
+        "Python Scripting (Maya/Nuke)",
+        "Render Farm Management",
+        "USD/Alembic File Formats",
+        "Shader Writing"
+    ],
+    "Full Stack Developer (Tauri/Rust)": [
+        "Tauri Framework",
+        "Rust (Backend Logic)",
+        "Webview Integration",
+        "Desktop Application Packaging",
+        "Frontend Framework (e.g., React)"
+    ],
+    "Backend Developer (Vapor/Swift)": [
+        "Swift (Server-Side)",
+        "Vapor Framework",
+        "Non-Blocking I/O",
+        "Codable Protocol",
+        "PostgreSQL (Swift ORM)"
+    ],
+    "Data Scientist (Deep Graph Learning)": [
+        "Graph Neural Networks (GNNs)",
+        "PyTorch Geometric/DGL",
+        "Node Embedding (Node2Vec)",
+        "Knowledge Graph Construction",
+        "NetworkX"
+    ],
+    "ML Engineer (Bayesian Methods)": [
+        "PyMC/Stan",
+        "Probabilistic Programming",
+        "Gaussian Processes",
+        "A/B Test Design (Bayesian)",
+        "MCMC Sampling"
+    ],
+    "Quantitative Analyst (Derivatives Pricing)": [
+        "Black-Scholes Model",
+        "Monte Carlo Simulation (Finance)",
+        "Finite Difference Methods",
+        "C++ (Pricing Engines)",
+        "Stochastic Calculus"
+    ],
+    "Market Risk Analyst (Trading Systems)": [
+        "Value at Risk (VaR)",
+        "Stress Testing (Market)",
+        "Front-to-Back Office Systems",
+        "Regulatory Reporting (FRTB)",
+        "Python (Risk Libraries)"
+    ],
+    "Cybersecurity Engineer (Honeypots/Deception)": [
+        "Honeypot Deployment (Dionaea)",
+        "Deception Technologies",
+        "Threat Intelligence Integration",
+        "Network Monitoring (Deception)",
+        "Incident Triage"
+    ],
+    "Blue Team Analyst (Malware Reversal)": [
+        "IDA Pro/Ghidra (Disassembly)",
+        "Sandbox Analysis (Cuckoo)",
+        "Memory Forensics (Volatility)",
+        "YARA Rule Creation",
+        "Windows/Linux Internals"
+    ],
+    "Network Automation Specialist (SD-WAN/SDN)": [
+        "SD-WAN Controllers (Viptela/VeloCloud)",
+        "NETCONF/YANG",
+        "Python (Network Automation)",
+        "Service Orchestration",
+        "Network Virtualization"
+    ],
+    "VoIP Engineer (SBC/SIP Trunking)": [
+        "Session Border Controller (SBC) Admin",
+        "SIP Protocol Analysis",
+        "Media Gateways",
+        "Troubleshooting Call Quality",
+        "ENUM/DNS for Telephony"
+    ],
+    "IT Security Trainer/Awareness Lead": [
+        "Security Awareness Platforms (KnowBe4)",
+        "Phishing Simulation Design",
+        "Curriculum Development (Security)",
+        "Behavioral Change Science",
+        "Internal Communications"
+    ],
+    "Product Manager (Search & Discovery)": [
+        "Elasticsearch/Solr Relevance Tuning",
+        "A/B Testing (Search Results)",
+        "Ranking Algorithms",
+        "Query Log Analysis",
+        "Content Tagging Strategy"
+    ],
+    "UX Designer (Data Intensive Systems)": [
+        "Data Visualization Principles (Advanced)",
+        "Dashboard Design",
+        "Information Overload Mitigation",
+        "Complex Filtering/Sorting UX",
+        "Cognitive Load Management"
+    ],
+    "Technical Writer (Cloud Infrastructure)": [
+        "Terraform/CloudFormation Docs",
+        "API Reference Generation",
+        "Runbook/Operations Manuals",
+        "Diagramming (C4 Model)",
+        "GitOps Documentation"
+    ],
+    "LMS Administrator (Moodle/Blackboard)": [
+        "LMS Installation/Configuration",
+        "SCORM/xAPI Content Integration",
+        "User/Course Management",
+        "Plugin Development (Basic)",
+        "Reporting/Analytics (LMS)"
+    ],
+    "Legal Tech Developer (Generative AI)": [
+        "LLMs for Contract Review",
+        "Vector Databases (Legal)",
+        "Document Comparison/Extraction",
+        "Python (Legal NLP)",
+        "Data Security (Confidentiality)"
+    ],
+    "IT Procurement Specialist (Hardware)": [
+        "RFP/RFQ Creation (Hardware)",
+        "Supply Chain Logistics",
+        "Vendor Performance Scoring",
+        "Negotiation (Volume Discounts)",
+        "Asset Tagging/Tracking"
+    ],
+    "Financial Analyst (CapEx/OpEx)": [
+        "Capital Expenditure (CapEx) Planning",
+        "Operating Expenditure (OpEx) Budgeting",
+        "Cloud Cost Forecasting",
+        "TCO/ROI Analysis",
+        "Budgeting Tools (Anaplan)"
+    ],
+    "Scrum Master (Hardware/Agile)": [
+        "Scrum in Hardware Development",
+        "Managing Physical Dependencies",
+        "Sprint Planning (Long-Lead Items)",
+        "Kanban/Scrumban",
+        "Cross-Functional Team Facilitation"
+    ],
+    "Change Management Specialist (Organizational)": [
+        "Kotter's 8-Step Change Model",
+        "Stakeholder Readiness Assessment",
+        "Communication Strategy (Org-Wide)",
+        "Impact Mitigation Planning",
+        "Culture Change Initiatives"
+    ],
+    "VP of Product Management (Vertical SaaS)": [
+        "Industry-Specific Domain Knowledge",
+        "Market Penetration Strategy",
+        "Pricing/Packaging (SaaS)",
+        "Integration Ecosystems",
+        "Challenger Sales Model"
+    ],
+    "Chief Data Officer (CDO)": [
+        "Data Strategy & Vision",
+        "Data Monetization",
+        "Data Governance Framework",
+        "Regulatory Compliance (Data)",
+        "Data Literacy (Org-Wide)"
+    ],
+    "Principal Solutions Architect (Integration)": [
+        "Integration Patterns (ESB, iPaaS, Microservices)",
+        "API Lifecycle Management",
+        "Hybrid Integration Platforms",
+        "Security (Integration)",
+        "Event-Driven Architecture"
+    ],
+    "Principal Engineer (Security Automation)": [
+        "SOAR Platforms (e.g., Splunk Phantom)",
+        "Security Orchestration Playbooks",
+        "API Integration (Security Tools)",
+        "Python/Go (Automation)",
+        "Metrics (MTTR Reduction)"
+    ],
+    "Senior Data Scientist (Recommender Systems)": [
+        "Collaborative Filtering (Matrix Factorization)",
+        "Content-Based Filtering",
+        "Deep Learning (RecSys)",
+        "A/B Testing (Recommendation Quality)",
+        "Feature Engineering (User/Item)"
+    ],
+    "Senior ML Engineer (Deep Learning Optimization)": [
+        "Inference Latency Reduction",
+        "Model Pruning/Distillation",
+        "Custom CUDA Kernels",
+        "Hardware Acceleration (GPU/TPU)",
+        "ONNX Runtime"
+    ],
+    "Senior Quantitative Developer (Low Latency)": [
+        "C++ (STL, Boost)",
+        "Lock-Free Programming",
+        "Kernel Bypass (DPDK)",
+        "System Tuning (OS/BIOS)",
+        "Exchange Protocol Integration"
+    ],
+    "Senior Cloud Reliability Engineer (Networking)": [
+        "Service Mesh (Istio/Linkerd) Management",
+        "Advanced Load Balancing (L7)",
+        "Network Policy Enforcement",
+        "Network Observability Tools",
+        "SRE Networking Principles"
+    ],
+    "Senior Full Stack Developer (GraphQL)": [
+        "GraphQL Schema Design",
+        "Apollo/Relay Frameworks",
+        "Server-Side Resolvers",
+        "N+1 Problem Mitigation",
+        "Caching Strategy (GraphQL)"
+    ],
+    "Senior Embedded Systems Engineer (RTOS)": [
+        "FreeRTOS/Zephyr OS",
+        "Task Scheduling/Synchronization",
+        "Interrupt Handling",
+        "Memory Protection Units (MPU)",
+        "Debugging (JTAG/SWD)"
+    ],
+    "Senior Telecommunications Engineer (Optical Transport)": [
+        "Wavelength Division Multiplexing (WDM)",
+        "Optical Network Planning (Ciena/Nokia)",
+        "OTN/SDH/SONET",
+        "Fiber Impairment Modeling",
+        "Line Rate Optimization"
+    ],
+    "Senior IoT Edge Developer (ML at Edge)": [
+        "TensorFlow Lite/ONNX Runtime (Edge)",
+        "Data Preprocessing (Edge)",
+        "Device Shadow/Twin Implementation",
+        "Resource Management (CPU/Memory)",
+        "FOTA Updates (Secure)"
+    ],
+    "Senior Data Scientist (Time Series Forecasting)": [
+        "Prophet/NeuralProphet",
+        "Hierarchical Forecasting",
+        "External Regressors Integration",
+        "Anomaly Detection (Time Series)",
+        "Model Evaluation (MASE, sMAPE)"
+    ],
+    "Senior Applied Cryptographer (Homomorphic Encryption)": [
+        "HE Libraries (e.g., Microsoft SEAL)",
+        "FHE/SHE Schemes",
+        "Encrypted Computation Design",
+        "Security/Performance Trade-offs",
+        "Lattice Cryptography"
+    ],
+    "Senior UX Designer (Accessibility Focus)": [
+        "Advanced WCAG Remediation",
+        "Screen Reader Scripting (JAWS)",
+        "User Testing (Assistive Tech)",
+        "ARIA Specification (Expert)",
+        "Disability Inclusion Training"
+    ],
+    "Senior Technical Writer (Developer Portal)": [
+        "Redoc/Swagger UI Integration",
+        "API Reference Generation (Automation)",
+        "Code Sample Management",
+        "Interactive Documentation",
+        "Metrics (DX)"
+    ],
+    "Senior Legal Operations Specialist (AI Integration)": [
+        "AI Tools for Contract Review (ContractPod)",
+        "Legal Workflow Automation",
+        "AI Governance (Legal)",
+        "Data Privacy Tools",
+        "Vendor Management (Legal Tech)"
+    ],
+    "Senior HRIS Analyst (Compensation)": [
+        "Workday/SuccessFactors Compensation Modules",
+        "Pay Grade Structures",
+        "Incentive Plans/Bonus Calculations",
+        "Merit Cycle Configuration",
+        "Global Compensation Data"
+    ],
+    "Senior SAP Consultant (EWM/Extended Warehouse Management)": [
+        "EWM Process Configuration",
+        "RF/Mobile Data Entry",
+        "Material Flow System (MFS)",
+        "Warehouse Control Unit (WCU) Integration",
+        "Outbound/Inbound Logistics"
+    ],
+    "Senior Dynamics 365 F&O (Supply Chain) Consultant": [
+        "Supply Chain Management (SCM) Module",
+        "Procurement/Inventory Management",
+        "Warehouse Management",
+        "Power BI Reporting",
+        "Data Migration"
+    ],
+    "Senior Adobe Experience Manager (AEM) Architect": [
+        "AEM Cloud Service Architecture",
+        "AEM Dispatcher Configuration",
+        "Front-end SPA Integration (React/Vue)",
+        "Microservices Integration",
+        "Security Best Practices (AEM)"
+    ],
+    "Senior Digital Marketing Analyst (SEO/CRO)": [
+        "Technical SEO Auditing (Advanced)",
+        "Conversion Rate Optimization (CRO)",
+        "A/B Testing (Advanced Stats)",
+        "Session Replay Analysis (Hotjar)",
+        "Google Analytics 4 (Advanced)"
+    ],
+    "Senior IT Auditor (Cloud Infrastructure)": [
+        "AWS/Azure/GCP Security Controls Audit",
+        "Cloud Configuration Review (Terraform/ARM)",
+        "DevOps Pipeline Audit",
+        "Container Security Review",
+        "Compliance Automation"
+    ],
+    "Senior Financial Analyst (IT TBM/FinOps)": [
+        "Technology Business Management (TBM) Framework",
+        "IT Service Cost Modeling",
+        "Showback/Chargeback Implementation",
+        "Data Analytics (TBM Tools)",
+        "Business Case Validation"
+    ],
+    "VP of Sales (B2B SaaS - Vertical)": [
+        "Vertical Market Penetration",
+        "Enterprise Sales Strategy",
+        "Quota Setting/Incentives",
+        "CRM (Salesforce) Strategy",
+        "Channel Partner Development"
+    ],
+    "Chief Product Officer (CPO)": [
+        "Product Vision & Strategy (Org-Wide)",
+        "Product Portfolio Management",
+        "Market Analysis (Global)",
+        "Product Leader Mentorship",
+        "P&L Ownership (Product)"
+    ],
+    "Head of Architecture (API/Integration)": [
+        "API Strategy & Governance",
+        "Integration Platform Selection",
+        "API Security Standards",
+        "Developer Experience (DX) Oversight",
+        "Technology Roadmap (Integration)"
+    ],
+    "Director of DevOps (Cloud Automation)": [
+        "CI/CD Pipeline Standardization",
+        "Infrastructure as Code (IaC) Strategy",
+        "Cost Optimization (DevOps)",
+        "Observability Strategy",
+        "Team Leadership (DevOps)"
+    ],
+    "Principal Architect (Database Systems)": [
+        "Database Scaling Strategy (Sharding/Replication)",
+        "NoSQL/SQL Trade-offs",
+        "Data Migration Strategy (Zero Downtime)",
+        "Database Security Audits",
+        "Performance Tuning (Expert)"
+    ],
+    "Principal Data Scientist (Responsible AI)": [
+        "Fairness, Accountability, Transparency (FAT)",
+        "Bias Detection/Mitigation (ML)",
+        "Explainability (LIME/SHAP Expert)",
+        "Adversarial Examples",
+        "Ethical Guidelines"
+    ],
+    "Principal Full Stack Developer (Performance)": [
+        "Web Vitals Optimization (Expert)",
+        "Server-Side Rendering (SSR) Tunning",
+        "Caching Strategy (Multi-Layer)",
+        "Load Testing (Advanced)",
+        "Code Refactoring (Performance)"
+    ],
+    "Senior Robotics Engineer (Motion Planning)": [
+        "MoveIt!/OMPL",
+        "Kinematics (Forward/Inverse)",
+        "Collision Avoidance Algorithms",
+        "Path Optimization",
+        "C++ (High-Performance Motion)"
+    ],
+    "Senior Data Quality Engineer (ML Driven)": [
+        "ML Models for Data Anomaly Detection",
+        "Active Profiling/Monitoring",
+        "Data Cleansing Automation",
+        "Root Cause Analysis (Data)",
+        "Data Trust Score"
+    ],
+    "Senior Data Architect (Data Vault)": [
+        "Data Vault 2.0 Methodology",
+        "Hubs, Links, Satellites Modeling",
+        "Data Mart Design",
+        "Historical Data Management",
+        "Data Lineage Tools"
+    ],
+    "Senior Computer Vision Engineer (3D Reconstruction)": [
+        "SfM/SLAM Algorithms",
+        "Multi-View Geometry",
+        "Photogrammetry",
+        "C++/Python (Vision Libraries)",
+        "Real-Time Processing"
+    ],
+    "Senior AR/VR Developer (Holographic Computing)": [
+        "Microsoft HoloLens SDK",
+        "Spatial Anchors/Mapping",
+        "Gesture Recognition",
+        "Unity/C# (Mixed Reality)",
+        "User Studies (MR)"
+    ],
+    "Senior Digital Twin Developer (Physics Simulation)": [
+        "COMSOL Multiphysics",
+        "Physics Engine Integration",
+        "Finite Element Modeling (FEM)",
+        "Real-Time Sensor Data Fusion",
+        "Calibration/Validation"
+    ],
+    "Senior Aerospace GNC Engineer (Launch Vehicles)": [
+        "Launch Vehicle Trajectory Optimization",
+        "Guidance Algorithms (e.g., Q-Guidance)",
+        "Navigation Filters (High-Fidelity)",
+        "Flight Control Systems",
+        "High-Fidelity Simulation"
+    ],
+    "Senior Industrial IoT (IIoT) Cloud Engineer": [
+        "Time Series Database (e.g., TimescaleDB)",
+        "MQTT Broker Management (EMQX)",
+        "Cloud Integration (OT Data)",
+        "Data Normalization (IIoT)",
+        "Historian Data Migration"
+    ],
+    "Senior Smart Metering Data Scientist": [
+        "Load Disaggregation (Non-Intrusive Load Monitoring)",
+        "Theft Detection Algorithms",
+        "Forecasting (Household Level)",
+        "Python (Time Series)",
+        "AMI Data Analytics"
+    ],
+    "Senior Substation Automation Engineer (Protection)": [
+        "Numerical Relay Programming (SEL/ABB/Siemens)",
+        "Distance/Differential Protection Schemes",
+        "Phasor Measurement Units (PMU)",
+        "Fault Recorder Analysis",
+        "IEC 61850 Configuration (Advanced)"
+    ],
+    "Senior HVDC Control Engineer": [
+        "Control Strategy (Power Flow)",
+        "DC Protection Systems",
+        "VSC/LCC Converter Control",
+        "Real-Time Simulators (RTDS)",
+        "Harmonic Mitigation"
+    ],
+    "Senior Energy Storage (BESS) Control Engineer": [
+        "PCS/BMS Integration",
+        "Microgrid Controller Logic",
+        "State-of-Charge (SOC) Optimization",
+        "Grid Services (Frequency Regulation)",
+        "SCADA Interface"
+    ],
+    "Senior Nuclear Plant Simulator Engineer": [
+        "Full Scope Simulator Maintenance",
+        "Thermal-Hydraulic Codes (RELAP)",
+        "Simulator Fidelity Testing",
+        "Model Modification/Validation",
+        "Training Scenario Development"
+    ],
+    "Senior Chemical Process Safety Engineer (Tech)": [
+        "Process Hazard Analysis (PHA) Software",
+        "LOPA (Layers of Protection Analysis) Software",
+        "Safety Integrity Level (SIL) Determination",
+        "Regulatory Documentation",
+        "DCS/SIS Interlocks"
+    ],
+    "Senior Biomedical Data Scientist (Real-World Evidence)": [
+        "Real-World Evidence (RWE) Datasets",
+        "Observational Study Design",
+        "Propensity Score Matching (RWE)",
+        "Causal Inference",
+        "Regulatory Submissions (RWE)"
+    ],
+    "Senior Automotive Functional Safety Engineer": [
+        "ASIL Decomposition",
+        "Safety Case Development (ISO 26262)",
+        "Tool Qualification",
+        "Technical Safety Requirements (TSR)",
+        "Independent Safety Assessment"
+    ],
+    "Senior Hardware Verification Engineer (Formal)": [
+        "Formal Verification Tools (OneSpin/Jasper)",
+        "Property Specification Language (PSL)",
+        "Model Checking",
+        "Sequential Equivalence Checking (SEC)",
+        "Formal Proofs"
+    ],
+    "Senior Semiconductor Failure Analysis Engineer": [
+        "Failure Analysis Equipment (SEM/FIB)",
+        "Fault Isolation Techniques (Emission Microscopy)",
+        "Physical Debugging",
+        "Process/Device Physics",
+        "Report Writing (FA)"
+    ],
+    "Senior Photonics Engineer (Integrated Circuits)": [
+        "Silicon Photonics Design Tools",
+        "PIC Layout/Simulation",
+        "Coupling Structures",
+        "Foundry Process Rules",
+        "Testing (Wafer-Level)"
+    ],
+    "Senior Game Developer (Networking/Multiplayer)": [
+        "Network Architecture (P2P/Client-Server)",
+        "Lag Compensation/Prediction",
+        "Network Serialization",
+        "Anti-Cheat Measures",
+        "Multiplayer Engine Integration"
+    ],
+    "Senior VFX Technical Director (Pipeline)": [
+        "Pipeline Scripting (Python/Bash)",
+        "Asset Management System (e.g., ShotGrid)",
+        "Version Control (Perforce)",
+        "Tool Development (UI/UX)",
+        "Render Management"
+    ],
+    "Senior Full Stack Developer (Blazor)": [
+        "C# (Blazor Server/WebAssembly)",
+        "ASP.NET Core",
+        "Razor Components",
+        "JavaScript Interop",
+        "State Management (Blazor)"
+    ],
+    "Senior Backend Developer (Clojure/ClojureScript)": [
+        "Clojure/ClojureScript",
+        "Functional Programming",
+        "Immutability",
+        "JVM Ecosystem",
+        "Data Modeling (Datomic)"
+    ],
+    "Senior Data Scientist (Computer Audition)": [
+        "Audio Feature Extraction (MFCC, Spectrograms)",
+        "Deep Learning (Audio)",
+        "Acoustic Event Detection",
+        "Sound Source Localization",
+        "Python (librosa, torch-audio)"
+    ],
+    "Senior ML Engineer (Online Learning)": [
+        "Online Learning Algorithms",
+        "Concept Drift Detection",
+        "Model Update Strategies",
+        "Streaming Data Integration",
+        "Low-Latency Deployment"
+    ],
+    "Senior Quantitative Analyst (Portfolio Optimization)": [
+        "Mean-Variance Optimization",
+        "Factor Models (Finance)",
+        "Risk Budgeting",
+        "Convex Optimization (CVXPY)",
+        "Constraints Handling"
+    ],
+    "Senior Cyber Threat Hunter (Cloud)": [
+        "Cloud Platform Logs (CloudTrail/Azure Activity)",
+        "Cloud-Native Detection Rules",
+        "Cloud Security Posture Management (CSPM)",
+        "Threat Modeling (Cloud)",
+        "API Monitoring"
+    ],
+    "Senior DevSecOps Engineer (Secrets Management)": [
+        "HashiCorp Vault/AWS Secrets Manager",
+        "Secret Rotation Automation",
+        "Credential Providers",
+        "Vault Policy/Access Control",
+        "API Integration (Security)"
+    ],
+    "Senior Network Security Engineer (Palo Alto/Scripting)": [
+        "Palo Alto Panorama Management",
+        "API Integration (Palo Alto)",
+        "Policy Automation (Python/Ansible)",
+        "Zero Trust Implementation",
+        "Advanced Troubleshooting"
+    ],
+    "Senior Identity Governance & Administration (IGA) Engineer": [
+        "IGA Solution Configuration (SailPoint/Saviynt)",
+        "Access Request Workflows",
+        "Recertification Automation",
+        "Custom Connectors",
+        "Role Mining/Modeling"
+    ],
+    "Senior Technical Program Manager (Security Incident Response)": [
+        "Incident Response Playbook Management",
+        "Cross-Functional Coordination (Security)",
+        "War Room Facilitation",
+        "Post-Mortem Process (Security)",
+        "Metrics (MTTD/MTTR)"
+    ],
+    "Senior Product Manager (AI/ML Platform)": [
+        "Internal ML Tooling Strategy",
+        "Feature Store Design",
+        "ML Model Versioning",
+        "Stakeholder Management (Data Science/Engineering)",
+        "API Design (ML)"
+    ],
+    "Senior UX Researcher (Generative AI)": [
+        "User Testing (Prompt Iteration)",
+        "Qualitative Analysis (AI Interactions)",
+        "Trust & Adoption Studies",
+        "Ethics/Bias Research",
+        "Synthetic Data Testing"
+    ],
+    "Senior Technical Writer (Open Source Projects)": [
+        "Sphinx/MkDocs Documentation",
+        "Contributing Guidelines",
+        "Pull Request Documentation Review",
+        "Community Engagement (Docs)",
+        "Readability/Clarity Metrics"
+    ],
+    "Senior Legal Counsel (Software Licensing)": [
+        "Open Source Licensing (GPL, MIT)",
+        "SaaS/Cloud Licensing Models",
+        "Contract Drafting (Tech)",
+        "IP/Copyright Law (Software)",
+        "Compliance Audits (License)"
+    ],
+    "Senior HRIS Analyst (Payroll)": [
+        "Workday/SAP Payroll Configuration",
+        "Taxation/Deduction Rules (Global)",
+        "Garnishment Processing",
+        "Integration (Banking/Tax Authorities)",
+        "Regulatory Reporting (Payroll)"
+    ],
+    "Senior Supply Chain Developer (WMS/Logistics)": [
+        "WMS Integration (API/Middleware)",
+        "Warehouse Automation (AS/RS)",
+        "Routing/Optimization Algorithms",
+        "Inventory Accuracy (Cycle Counting)",
+        "Supply Chain Modeling"
+    ],
+    "Senior Technical Recruiter (Director/VP Level)": [
+        "Executive Sourcing Strategies",
+        "Compensation Negotiation (Executive)",
+        "Confidential Search Execution",
+        "Organizational Structure Mapping",
+        "Talent Market Intelligence"
+    ],
+    "Principal Product Manager (Platform Strategy)": [
+        "Platform API Strategy",
+        "Internal/External Customer Segmentation",
+        "P&L Management (Platform)",
+        "Build vs. Buy Decisions",
+        "Ecosystem Development"
+    ],
+    "Principal Software Architect (Security)": [
+        "Security Architecture Review (Threat Modeling)",
+        "Security Standards Definition (Org-Wide)",
+        "Cryptography Selection/Review",
+        "Secure Design Patterns",
+        "Vulnerability Research"
+    ],
+    "Principal Data Architect (Data Governance)": [
+        "Global Data Governance Framework",
+        "Data Policy Development",
+        "Regulatory Compliance (Data Privacy)",
+        "Data Lineage/Quality Strategy",
+        "Master Data Management (MDM) Strategy"
+    ],
+    "Principal Data Scientist (ML Research)": [
+        "Novel Algorithm Development",
+        "Patent/Publication Strategy",
+        "Advanced Statistics (Bayesian/Causal)",
+        "Large-Scale Experimentation",
+        "Mentoring/Thought Leadership"
+    ],
+    "Distinguished Engineer (Distributed Systems)": [
+        "Fault-Tolerant System Design",
+        "Consistency Models (Distributed)",
+        "Distributed Transaction Management",
+        "Consensus Algorithms (Paxos/Raft)",
+        "Performance/Scalability (Exceeding Industry Benchmarks)"
+    ],
+    "Chief Innovation Officer (CIO)": [
+        "Innovation Pipeline Management",
+        "Emerging Technology Scouting (e.g., Quantum)",
+        "Corporate Venture Capital (CVC) Strategy",
+        "Internal Incubation Programs",
+        "Cross-Industry Partnerships"
+    ],
+    "VP of Data Engineering (Cloud Focus)": [
+        "Cloud Data Platform Strategy",
+        "Data Engineering Talent Development",
+        "Data Infrastructure Cost Management",
+        "Data Governance Implementation",
+        "Real-Time Data Architecture"
+    ],
+    "Director of Quality Engineering (Automation)": [
+        "Test Automation Framework Strategy",
+        "Performance Testing Center of Excellence (CoE)",
+        "Shift-Left Testing Adoption",
+        "Quality Metrics (DORA/Escapes)",
+        "Budgeting (QE Tools)"
+    ],
+    "Principal UX Designer (Design Futures)": [
+        "Visionary Design Prototyping",
+        "Futures Thinking (Speculative Design)",
+        "Emerging Technology UX (e.g., BCI)",
+        "Ethical Design Principles",
+        "Cross-Modal Interaction Design"
+    ],
+    "Principal Technical Writer (Information Architecture)": [
+        "Global Content Strategy",
+        "Information Taxonomy/Ontology",
+        "Content Delivery Platform (CDP) Strategy",
+        "Single-Sourcing Methodology (DITA/XML)",
+        "Search Optimization (Docs)"
+    ],
+    "Principal IT Auditor (Internal Controls)": [
+        "Enterprise Risk Management (ERM) Integration",
+        "Audit Methodology Development",
+        "Regulatory Mapping (Multi-Region)",
+        "Data Analytics (Audit)",
+        "Executive Reporting (Controls)"
+    ],
+    "Distinguished Architect (Cloud Networking)": [
+        "Global Cloud Networking Topology",
+        "Network Segmentation Strategy",
+        "Cloud Networking Security Posture",
+        "Routing/Interconnect Optimization (Expert)",
+        "Vendor Relations (Networking)"
+    ],
+    "Distinguished Engineer (Cybersecurity)": [
+        "Security Standards Creation (International)",
+        "Advanced Cryptographic Protocol Design",
+        "Zero-Day Vulnerability Research",
+        "National/International Security Policy",
+        "Mentoring (Security Research)"
+    ],
+    "Chief Manager (E6) - Head, Advanced RoW & Legal Affairs": [
+        "Advanced Contract Drafting & Negotiation",
+        "International Arbitration Procedures",
+        "Energy Regulatory Compliance & Policy"
+    ],
+    "ED (E9) - Executive Director, Corporate Strategy & HR": [
+        "Strategic Workforce Planning & Analytics",
+        "Digital HR Transformation & Tools",
+        "Executive Coaching & Mentorship Programs"
+    ],
+    "GM (E8) - Head, Technology Standardization & R&D": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Chief Manager (E6) - Head, Construction Contracts & Claims": [
+        "Advanced Contract Drafting & Negotiation",
+        "International Arbitration Procedures",
+        "Energy Regulatory Compliance & Policy"
+    ],
+    "GM (E8) - Regional Project Director, Western Region": [
+        "Advanced Project Management (PMP/Agile)",
+        "EPC Contract Management & Claims",
+        "Construction Risk Mitigation & Safety Standards"
+    ],
+    "Dy. Manager (E4) - Lead, Supply Chain Analytics": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML for Predictive Maintenance",
+        "Cybersecurity Incident Response & Forensics"
+    ],
+    "Chief Manager (E6) - Head, Financial Strategy & Due Diligence": [
+        "Advanced Financial Modeling (DCF, M&A)",
+        "Global Treasury & Hedging Strategy",
+        "IFRS/Ind AS Reporting Excellence"
+    ],
+    "Dy. Manager (E4) - Lead, Specialized Studies (Renewables)": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "GM (E8) - Head, Corporate Asset Life Cycle Management": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "Chief Manager (E6) - Regional Head (O&M)": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "ED (E9) - Head of Consulting & Telecom Business": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML for Predictive Maintenance",
+        "Cybersecurity Incident Response & Forensics"
+    ],
+    "Manager (E5) - Lead, National Load Dispatch Centre (NLDC) Team": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "CGM (E8) - Regional HR Head": [
+        "Strategic Workforce Planning & Analytics",
+        "Digital HR Transformation & Tools",
+        "Executive Coaching & Mentorship Programs"
+    ],
+    "Manager (E5) - Regional Telecom Business Head": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML for Predictive Maintenance",
+        "Cybersecurity Incident Response & Forensics"
+    ],
+    "Chief Manager (E6) - Regional Head, Projects Execution": [
+        "Advanced Project Management (PMP/Agile)",
+        "EPC Contract Management & Claims",
+        "Construction Risk Mitigation & Safety Standards"
+    ],
+    "ED (E9) - Executive Director, Southern Region": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "GM (E8) - Head, Procurement & Contracts": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "GM (E8) - Head, Large Scale Project Execution": [
+        "Advanced Project Management (PMP/Agile)",
+        "EPC Contract Management & Claims",
+        "Construction Risk Mitigation & Safety Standards"
+    ],
+    "Manager (E5) - HR Business Partner, Western Region": [
+        "Strategic Workforce Planning & Analytics",
+        "Digital HR Transformation & Tools",
+        "Executive Coaching & Mentorship Programs"
+    ],
+    "Dy. Manager (E4) - Lead, Tariff & Regulation": [
+        "Advanced Contract Drafting & Negotiation",
+        "International Arbitration Procedures",
+        "Energy Regulatory Compliance & Policy"
+    ],
+    "Chief Manager (E6) - Head, Advanced Maintenance Systems": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "GM (E8) - Head, Public Relations & Branding": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Chief Manager (E6) - Corporate Head, HSE": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "GM (E8) - Regional Project Director, North East": [
+        "Advanced Project Management (PMP/Agile)",
+        "EPC Contract Management & Claims",
+        "Construction Risk Mitigation & Safety Standards"
+    ],
+    "Dy. Manager (E4) - Lead, Land & R&R Policy": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "GM (E8) - CEO, POWERGRID Telecom Subsidiary": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML for Predictive Maintenance",
+        "Cybersecurity Incident Response & Forensics"
+    ],
+    "ED (E9) - Head of Operations, Pan-India": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "GM (E8) - Head of Regional Operations & Maintenance": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "Manager (E5) - Lead, Specialized Civil Structure Design": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Chief Manager (E6) - Litigation & Arbitration Head": [
+        "Advanced Contract Drafting & Negotiation",
+        "International Arbitration Procedures",
+        "Energy Regulatory Compliance & Policy"
+    ],
+    "Dy. Manager (E4) - Lead, Supply Chain Digitalization": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML for Predictive Maintenance",
+        "Cybersecurity Incident Response & Forensics"
+    ],
+    "GM (E8) - Head, Corporate Land & R&R": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Manager (E5) - Lead, Real-Time Grid Management": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "Chief Manager (E6) - Regional Head, Civil Construction": [
+        "Advanced Project Management (PMP/Agile)",
+        "EPC Contract Management & Claims",
+        "Construction Risk Mitigation & Safety Standards"
+    ],
+    "GM (E8) - Chief Financial Strategist": [
+        "Advanced Financial Modeling (DCF, M&A)",
+        "Global Treasury & Hedging Strategy",
+        "IFRS/Ind AS Reporting Excellence"
+    ],
+    "GM (E8) - Head, Corporate Supply Chain": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Chief Manager (E6) - Head, Protection Systems Reliability": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "GM (E8) - Head, POWERGRID Academy of Leadership (PAL)": [
+        "Strategic Workforce Planning & Analytics",
+        "Digital HR Transformation & Tools",
+        "Executive Coaching & Mentorship Programs"
+    ],
+    "GM (E8) - Executive Director, Eastern Region": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Manager (E5) - Lead, Internal Software Solutions": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Chief Manager (E6) - Head, Geospatial Systems & Asset Mapping": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "GM (E8) - Head, Corporate Strategy & Planning": [
+        "Scenario Planning & Corporate Foresight",
+        "Non-Market Strategy (Policy & Advocacy)",
+        "Stakeholder Management & Investor Communication"
+    ],
+    "GM (E8) - Head, Telecom Network & Operations": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML for Predictive Maintenance",
+        "Cybersecurity Incident Response & Forensics"
+    ],
+    "Manager (E5) - Lead, Grid Stability Studies": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "ED (E9) - Executive Director, Corporate HR": [
+        "Strategic Workforce Planning & Analytics",
+        "Digital HR Transformation & Tools",
+        "Executive Coaching & Mentorship Programs"
+    ],
+    "GM (E8) - Head, Corporate Engineering Standards": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "Dy. Manager (E4) - Lead, HR Digital Transformation": [
+        "Strategic Workforce Planning & Analytics",
+        "Digital HR Transformation & Tools",
+        "Executive Coaching & Mentorship Programs"
+    ],
+    "GM (E8) - Head, International Business Development": [
+        "Scenario Planning & Corporate Foresight",
+        "Non-Market Strategy (Policy & Advocacy)",
+        "Stakeholder Management & Investor Communication"
+    ],
+    "Chief Manager (E6) - Head, Dispute Resolution": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Dy. Manager (E4) - Lead, Market Operations & Strategy": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "GM (E8) - Head, Mega Project Execution (J&K)": [
+        "Advanced Project Management (PMP/Agile)",
+        "EPC Contract Management & Claims",
+        "Construction Risk Mitigation & Safety Standards"
+    ],
+    "Chief Manager (E6) - Head, Substation Technology & Innovation": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "Dy. Manager (E4) - Lead, Telecom Network Quality": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML for Predictive Maintenance",
+        "Cybersecurity Incident Response & Forensics"
+    ],
+    "Manager (E5) - Lead, Regional Load Dispatch Centre (RLDC)": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "ED (E9) - Executive Director, Planning & Investment": [
+        "Advanced Financial Modeling (DCF, M&A)",
+        "Global Treasury & Hedging Strategy",
+        "IFRS/Ind AS Reporting Excellence"
+    ],
+    "Chief Manager (E6) - Head, Cyber Defence Centre": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML for Predictive Maintenance",
+        "Cybersecurity Incident Response & Forensics"
+    ],
+    "GM (E8) - Head, Domestic & SAARC Consulting Business": [
+        "Scenario Planning & Corporate Foresight",
+        "Non-Market Strategy (Policy & Advocacy)",
+        "Stakeholder Management & Investor Communication"
+    ],
+    "Dy. Manager (E4) - Lead, Strategic Sourcing": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "GM (E8) - Regional Executive Director, O&M": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "Manager (E5) - Lead, Total Rewards Strategy": [
+        "Strategic Workforce Planning & Analytics",
+        "Digital HR Transformation & Tools",
+        "Executive Coaching & Mentorship Programs"
+    ],
+    "Chief Manager (E6) - Head, Business Intelligence & Data Science": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML for Predictive Maintenance",
+        "Cybersecurity Incident Response & Forensics"
+    ],
+    "GM (E8) - Regional Project Director, Southern Region": [
+        "Advanced Project Management (PMP/Agile)",
+        "EPC Contract Management & Claims",
+        "Construction Risk Mitigation & Safety Standards"
+    ],
+    "Dy. Manager (E4) - Lead, Telecom Revenue & Assurance": [
+        "Advanced Financial Modeling (DCF, M&A)",
+        "Global Treasury & Hedging Strategy",
+        "IFRS/Ind AS Reporting Excellence"
+    ],
+    "GM (E8) - Head, Stakeholder Relations (Media & Investor)": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Manager (E5) - Lead, Corporate Compliance & Ethics": [
+        "Advanced Contract Drafting & Negotiation",
+        "International Arbitration Procedures",
+        "Energy Regulatory Compliance & Policy"
+    ],
+    "ED (E9) - Executive Director, Corporate Operations": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "Chief Manager (E6) - Head, Leadership Development & Coaching": [
+        "Strategic Workforce Planning & Analytics",
+        "Digital HR Transformation & Tools",
+        "Executive Coaching & Mentorship Programs"
+    ],
+    "GM (E8) - Head, Regional Grid Management (North-East)": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "GM (E8) - Head, HVDC Operations & Technology": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "Dy. Manager (E4) - Lead, IFRS/Ind AS Reporting": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Chief Manager (E6) - Head, Integrated Project Planning": [
+        "Advanced Project Management (PMP/Agile)",
+        "EPC Contract Management & Claims",
+        "Construction Risk Mitigation & Safety Standards"
+    ],
+    "GM (E8) - Head, Telecom Strategy & M&A": [
+        "Advanced Financial Modeling (DCF, M&A)",
+        "Global Treasury & Hedging Strategy",
+        "IFRS/Ind AS Reporting Excellence"
+    ],
+    "Chief Manager (E6) - Head, National Grid Planning & Policy": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "GM (E8) - Regional Executive Director, Project Execution": [
+        "Advanced Project Management (PMP/Agile)",
+        "EPC Contract Management & Claims",
+        "Construction Risk Mitigation & Safety Standards"
+    ],
+    "Chief Manager (E6) - Head, Corporate Vendor Quality Management": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "ED (E9) - Executive Director, Infrastructure & Land": [
+        "Strategic Business Communication",
+        "Advanced Decision Making Techniques",
+        "Cross-Functional Team Leadership"
+    ],
+    "Chief Manager (E6) - Head, Corporate Finance Reporting": [
+        "Advanced Financial Modeling (DCF, M&A)",
+        "Global Treasury & Hedging Strategy",
+        "IFRS/Ind AS Reporting Excellence"
+    ],
+    "GM (E8) - Regional Head, O&M & Asset Strategy": [
+        "Asset Performance Management (APM)",
+        "Reliability-Centered Maintenance (RCM)",
+        "Integrated Grid Modernization & SCADA Systems"
+    ],
+    "GM (E8) - Head, Telecom Infrastructure & Projects": [
+        "Cloud Networking & Security (e.g., AWS/Azure)",
+        "AI/ML"
+    ],
+    "Go Language": [
+        "Programming with Google Go Specialization (UC Irvine)"
+    ],
+    "Tableau/PowerBI": [
+        "Data Visualization with Tableau and Power BI Certification"
+    ],
+    "Jira/Trello Proficiency": [
+        "Agile Project Management with Jira/Trello Workshop"
+    ],
+    "Negotiation Tactics": [
+        "Advanced Negotiation and Conflict Resolution Course"
+    ],
+    "Diversity & Inclusion": [
+        "Leading Diversity, Equity, and Inclusion (DEI) Programs"
+    ],
+    "Budget Planning": [
+        "Advanced Financial Planning and Budgeting"
+    ],
+    "SEO/SEM Strategy": [
+        "Digital Marketing: SEO & SEM Specialization"
+    ],
+    "Python/Pandas": [
+        "Python for Data Science and Machine Learning Bootcamp"
+    ],
+    "PMP Certification": [
+        "Project Management Professional (PMP)® Exam Prep Course (PMI)"
+    ],
+    "Google Analytics 4": [
+        "Google Analytics 4 (GA4) Certification Course"
+    ],
+    "Advanced SQL": [
+        "Advanced SQL for Data Science and Analytics"
+    ],
+    "Employee Relations": [
+        "Effective Employee Relations and Labor Law Compliance"
+    ],
+    "GM (E8) - Head, Digital Transformation": [
+        "Strategic Digital Transformation for Leaders (IIM/Executive Ed)"
+    ],
+    "DGM (E7) - ESG & Sustainability Head": [
+        "Executive Program in ESG and Sustainability Leadership"
+    ],
+    "ISO 14001/45001 Audit Certification": [
+        "ISO 14001:2015 and ISO 45001:2018 Lead Auditor Training"
+    ],
+    "Advanced Public Speaking & Influence": [
+        "Executive Communication and Public Speaking Program"
+    ],
+    "Board Governance and Executive Leadership": [
+        "Corporate Governance and Boardroom Dynamics Course"
+    ],
+    "Reliability Centered Maintenance (RCM) Certification": [
+        "Reliability Centered Maintenance (RCM) Certification Training"
+    ],
+    "Regulatory Econometrics and Energy Policy Analysis": [
+        "Energy Economics and Policy Masterclass"
+    ],
+    "Advanced Mergers & Acquisitions (M&A) Due Diligence": [
+        "Mergers and Acquisitions Specialization (UIUC/IMAA)"
+    ],
+    "Advanced Negotiation and Conflict Resolution": [
+        "Advanced Negotiation and Conflict Resolution Course"
+    ]
+}

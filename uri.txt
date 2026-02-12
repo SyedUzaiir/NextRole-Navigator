@@ -1,0 +1,1 @@
+mongodb+srv://maraheem812_db_user:cTHlAyZXbeiYCHeM@cluster0.b3gwkff.mongodb.net/NextRoleNavigator?appName=Cluster0
