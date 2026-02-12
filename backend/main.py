@@ -271,3 +271,24 @@ async def api_generate_gap_course(request: UpskillingRequest):
     except Exception as e:
         print(f"Error in generate-gap-course: {e}")
         raise HTTPException(status_code=500, detail=str(e))
+
+# --- RAG Chat Endpoint ---
+try:
+    from rag import rag_service
+except ImportError:
+    from backend.rag import rag_service
+
+class ChatRequest(BaseModel):
+    query: str
+
+@app.post("/api/chat")
+async def chat_agent(request: ChatRequest):
+    """
+    Handles RAG-based chat queries.
+    """
+    try:
+        response = rag_service.get_response(request.query)
+        return {"response": response}
+    except Exception as e:
+        print(f"Error in chat_agent: {e}")
+        raise HTTPException(status_code=500, detail=str(e))

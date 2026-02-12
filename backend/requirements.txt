@@ -5,3 +5,7 @@ google-generativeai
 python-dotenv
 requests
 google-api-python-client
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu

@@ -1,0 +1,65 @@
+1. Skill Gap Analysis Engine
+Analyzes employee’s current skills.
+Compares them with the target role requirements.
+Identifies missing skills needed for promotion or transition.
+Generates a structured skill gap report.
+
+2. Target Role Mapping
+Maps employee profile with predefined role skill matrix.
+Shows required proficiency level for each skill.
+Displays readiness percentage for the target role.
+
+3. Personalized Development Roadmap
+Automatically generates a custom learning roadmap.
+Roadmap is based only on missing skills.
+Structured in progressive learning order (basic → advanced).
+Timeline-based milestone tracking.
+
+4. Course Structure System
+Each roadmap is converted into a structured course:
+• Course: Represents one complete learning path. Linked to a specific target role.
+• Modules: Each skill is divided into multiple modules. Module focuses on a specific sub-topic.
+• Sections: Each module contains multiple sections. Micro-learning approach for better understanding.
+
+5. Learning Content Delivery
+Each section includes:
+Technical video explanation
+Definitions and theoretical concepts
+Real-world examples
+Practical explanations
+
+6. Module-wise Assessment System
+After completing all sections in a module, a quiz is generated.
+Tests conceptual and practical understanding.
+Instant score evaluation.
+Module completion unlocked only after quiz attempt.
+
+7. Progress Tracking System
+Tracks completion percentage of course.
+Shows module-wise progress.
+Displays quiz performance.
+Visual learning progress indicators.
+
+8. Landing Page Dashboard
+Displays:
+Ongoing courses
+Recommended roadmap
+Skill gap summary
+Progress overview
+Centralized employee learning dashboard.
+
+9. Course History Section
+Stores all completed courses.
+Displays past quiz scores.
+Shows completion date.
+Maintains long-term learning record.
+
+10. External Learning Roadmap Section
+Dedicated employee section for roadmap viewing.
+Displays personalized structured roadmap.
+Easy navigation between modules and sections.
+
+11. Continuous Career Development Support
+Helps employees move from current role → target role.
+Encourages structured upskilling.
+Reduces manual HR intervention.
