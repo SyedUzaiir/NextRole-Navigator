@@ -18,10 +18,14 @@ If you don't know the answer or if the query is outside your scope (e.g., genera
 export async function POST(req) {
     try {
         const { query, history } = await req.json();
+        const apiKey = process.env.Agent_Gemini_Key;
 
-        if (!process.env.Agent_Gemini_Key) {
+        if (!apiKey) {
+            console.error("Agent_Gemini_Key is missing in environment variables.");
             return NextResponse.json({ error: "Agent_Gemini_Key not configured" }, { status: 500 });
         }
+
+        const genAI = new GoogleGenerativeAI(apiKey.trim());
 
         const model = genAI.getGenerativeModel({
             model: "gemini-1.5-pro",
